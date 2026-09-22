@@ -1,0 +1,1146 @@
+{
+ "XBRL": {
+  "description": "XBRL digital reporting",
+  "validated": true,
+  "terms": {
+   "en": [
+    {
+     "term": "extensible business reporting language",
+     "rule": "substring"
+    },
+    {
+     "term": "disclosure system training",
+     "rule": "substring"
+    },
+    {
+     "term": "electronic disclosure",
+     "rule": "substring"
+    },
+    {
+     "term": "structured reporting",
+     "rule": "substring"
+    },
+    {
+     "term": "machine-readable",
+     "rule": "substring"
+    },
+    {
+     "term": "structured data",
+     "rule": "substring"
+    },
+    {
+     "term": "XBRL solution",
+     "rule": "substring"
+    },
+    {
+     "term": "XBRL training",
+     "rule": "substring"
+    },
+    {
+     "term": "XBRL software",
+     "rule": "substring"
+    },
+    {
+     "term": "XBRL-enabled",
+     "rule": "substring"
+    },
+    {
+     "term": "e-disclosure",
+     "rule": "substring"
+    },
+    {
+     "term": "XBRL filing",
+     "rule": "substring"
+    },
+    {
+     "term": "XBRL format",
+     "rule": "substring"
+    },
+    {
+     "term": "XBRL tag",
+     "rule": "substring"
+    },
+    {
+     "term": "taxonomy",
+     "rule": "requires_co_term"
+    },
+    {
+     "term": "tagging",
+     "rule": "requires_co_term"
+    },
+    {
+     "term": "iXBRL",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "XBRL",
+     "rule": "word_boundary+case_sensitive_raw"
+    }
+   ],
+   "ar": [
+    {
+     "term": "لغة تقارير الأعمال الموسعة",
+     "rule": "substring"
+    },
+    {
+     "term": "مسؤول الإفصاح الإلكتروني",
+     "rule": "substring"
+    },
+    {
+     "term": "تدريب على نظام الإفصاح",
+     "rule": "substring"
+    },
+    {
+     "term": "نظام الإفصاح الإلكتروني",
+     "rule": "substring"
+    },
+    {
+     "term": "قابلة للقراءة الآلية",
+     "rule": "substring"
+    },
+    {
+     "term": "إعداد ملفات XBRL",
+     "rule": "substring"
+    },
+    {
+     "term": "الإفصاح الإلكتروني",
+     "rule": "substring"
+    },
+    {
+     "term": "بيانات مهيكلة",
+     "rule": "substring"
+    },
+    {
+     "term": "التقارير المهيكلة",
+     "rule": "substring"
+    },
+    {
+     "term": "اكس بي ار ال",
+     "rule": "substring"
+    },
+    {
+     "term": "برنامج XBRL",
+     "rule": "substring"
+    },
+    {
+     "term": "تصنيف XBRL",
+     "rule": "substring"
+    },
+    {
+     "term": "تدريب XBRL",
+     "rule": "substring"
+    },
+    {
+     "term": "وسوم XBRL",
+     "rule": "substring"
+    },
+    {
+     "term": "بلغة XBRL",
+     "rule": "substring"
+    },
+    {
+     "term": "صيغة XBRL",
+     "rule": "substring"
+    },
+    {
+     "term": "نظام XBRL",
+     "rule": "substring"
+    },
+    {
+     "term": "الترميز",
+     "rule": "requires_co_term"
+    }
+   ]
+  },
+  "examples": {
+   "tier2": "The company adopted XBRL tagging for its financial statements",
+   "tier1": "The report was filed on the XBRL system"
+  }
+ },
+ "ERP": {
+  "description": "Enterprise resource planning systems",
+  "validated": true,
+  "terms": {
+   "en": [
+    {
+     "term": "application programming interface",
+     "rule": "substring"
+    },
+    {
+     "term": "manufacturing execution system",
+     "rule": "substring"
+    },
+    {
+     "term": "enterprise resource planning",
+     "rule": "substring"
+    },
+    {
+     "term": "without manual intervention",
+     "rule": "substring"
+    },
+    {
+     "term": "activity-based costing",
+     "rule": "substring"
+    },
+    {
+     "term": "cost accounting system",
+     "rule": "substring"
+    },
+    {
+     "term": "general ledger module",
+     "rule": "substring"
+    },
+    {
+     "term": "procurement module",
+     "rule": "substring"
+    },
+    {
+     "term": "automated workflow",
+     "rule": "substring"
+    },
+    {
+     "term": "Microsoft Dynamics",
+     "rule": "substring"
+    },
+    {
+     "term": "ERP implementation",
+     "rule": "substring"
+    },
+    {
+     "term": "integrated modules",
+     "rule": "substring"
+    },
+    {
+     "term": "system integration",
+     "rule": "substring"
+    },
+    {
+     "term": "automatic posting",
+     "rule": "substring"
+    },
+    {
+     "term": "segment reporting",
+     "rule": "substring"
+    },
+    {
+     "term": "inventory module",
+     "rule": "substring"
+    },
+    {
+     "term": "bank integration",
+     "rule": "substring"
+    },
+    {
+     "term": "IFRS conversion",
+     "rule": "substring"
+    },
+    {
+     "term": "shared database",
+     "rule": "substring"
+    },
+    {
+     "term": "ERP upgrade",
+     "rule": "substring"
+    },
+    {
+     "term": "ERP system",
+     "rule": "substring"
+    },
+    {
+     "term": "HR module",
+     "rule": "substring"
+    },
+    {
+     "term": "Oracle",
+     "rule": "substring"
+    },
+    {
+     "term": "IFRS 8",
+     "rule": "substring"
+    },
+    {
+     "term": "Odoo",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "API",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "MES",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "SAP",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "ERP",
+     "rule": "word_boundary+case_sensitive_raw"
+    }
+   ],
+   "ar": [
+    {
+     "term": "تطبيق نظام تخطيط موارد المؤسسة",
+     "rule": "substring"
+    },
+    {
+     "term": "محاسبة التكاليف على أساس النشاط",
+     "rule": "substring"
+    },
+    {
+     "term": "التحول إلى المعايير الدولية",
+     "rule": "substring"
+    },
+    {
+     "term": "التكامل مع الأنظمة الخارجية",
+     "rule": "substring"
+    },
+    {
+     "term": "الربط الإلكتروني مع البنوك",
+     "rule": "substring"
+    },
+    {
+     "term": "واجهة برمجة التطبيقات",
+     "rule": "substring"
+    },
+    {
+     "term": "قاعدة بيانات موحدة",
+     "rule": "substring"
+    },
+    {
+     "term": "تخطيط موارد المؤسسات",
+     "rule": "substring"
+    },
+    {
+     "term": "تخطيط موارد المؤسسة",
+     "rule": "substring"
+    },
+    {
+     "term": "نظام تخطيط الموارد",
+     "rule": "substring"
+    },
+    {
+     "term": "نظام تنفيذ التصنيع",
+     "rule": "substring"
+    },
+    {
+     "term": "تحديث نظام ERP",
+     "rule": "substring"
+    },
+    {
+     "term": "التقارير القطاعية",
+     "rule": "substring"
+    },
+    {
+     "term": "نظام أوراكل",
+     "rule": "substring"
+    },
+    {
+     "term": "نظام التكاليف",
+     "rule": "requires_co_term"
+    },
+    {
+     "term": "سير العمل الآلي",
+     "rule": "substring"
+    },
+    {
+     "term": "تكامل الأنظمة",
+     "rule": "substring"
+    },
+    {
+     "term": "برنامج ساب",
+     "rule": "substring"
+    },
+    {
+     "term": "وحدات النظام",
+     "rule": "substring"
+    },
+    {
+     "term": "الترحيل الآلي",
+     "rule": "substring"
+    },
+    {
+     "term": "ربط الأنظمة",
+     "rule": "substring"
+    },
+    {
+     "term": "نظام ساب",
+     "rule": "substring"
+    },
+    {
+     "term": "أوراكل",
+     "rule": "substring"
+    }
+   ]
+  },
+  "examples": {
+   "tier2": "The Group implemented SAP across all subsidiaries",
+   "tier1": "Implementation of the ERP system continued"
+  }
+ },
+ "SAR": {
+  "description": "Smart accounting, RPA and electronic archiving",
+  "validated": true,
+  "terms": {
+   "en": [
+    {
+     "term": "linked to the disclosure system",
+     "rule": "substring"
+    },
+    {
+     "term": "automated financial statements",
+     "rule": "substring"
+    },
+    {
+     "term": "automated regulatory reporting",
+     "rule": "substring"
+    },
+    {
+     "term": "automated management reporting",
+     "rule": "substring"
+    },
+    {
+     "term": "optical character recognition",
+     "rule": "substring"
+    },
+    {
+     "term": "reporting system integration",
+     "rule": "substring"
+    },
+    {
+     "term": "integrated reporting system",
+     "rule": "substring"
+    },
+    {
+     "term": "regulatory reporting system",
+     "rule": "substring"
+    },
+    {
+     "term": "document management system",
+     "rule": "substring"
+    },
+    {
+     "term": "automated reconciliation",
+     "rule": "substring"
+    },
+    {
+     "term": "automated consolidation",
+     "rule": "substring"
+    },
+    {
+     "term": "automated disclosure",
+     "rule": "substring"
+    },
+    {
+     "term": "reporting automation",
+     "rule": "substring"
+    },
+    {
+     "term": "electronic archiving",
+     "rule": "substring"
+    },
+    {
+     "term": "electronic invoicing",
+     "rule": "substring"
+    },
+    {
+     "term": "management dashboard",
+     "rule": "substring"
+    },
+    {
+     "term": "continuous reporting",
+     "rule": "substring"
+    },
+    {
+     "term": "automated reporting",
+     "rule": "substring"
+    },
+    {
+     "term": "real-time financial",
+     "rule": "substring"
+    },
+    {
+     "term": "real-time reporting",
+     "rule": "substring"
+    },
+    {
+     "term": "report automation",
+     "rule": "substring"
+    },
+    {
+     "term": "automated reports",
+     "rule": "substring"
+    },
+    {
+     "term": "smart reporting",
+     "rule": "substring"
+    },
+    {
+     "term": "automated close",
+     "rule": "substring"
+    },
+    {
+     "term": "live reporting",
+     "rule": "substring"
+    },
+    {
+     "term": "e-invoicing",
+     "rule": "substring"
+    },
+    {
+     "term": "OCR",
+     "rule": "word_boundary+case_sensitive_raw"
+    }
+   ],
+   "ar": [
+    {
+     "term": "توحيد القوائم المالية آلياً",
+     "rule": "substring"
+    },
+    {
+     "term": "إعداد القوائم المالية آلياً",
+     "rule": "substring"
+    },
+    {
+     "term": "ربط الأنظمة بنظام الإفصاح",
+     "rule": "substring"
+    },
+    {
+     "term": "أتمتة التقارير الرقابية",
+     "rule": "substring"
+    },
+    {
+     "term": "أتمتة التقارير الإدارية",
+     "rule": "substring"
+    },
+    {
+     "term": "تكامل أنظمة التقارير",
+     "rule": "substring"
+    },
+    {
+     "term": "التقارير الرقابية الآلية",
+     "rule": "substring"
+    },
+    {
+     "term": "أتمتة إعداد التقارير",
+     "rule": "substring"
+    },
+    {
+     "term": "التعرف الضوئي على الحروف",
+     "rule": "substring"
+    },
+    {
+     "term": "لوحة تقارير الإدارة",
+     "rule": "substring"
+    },
+    {
+     "term": "نظام إدارة الوثائق",
+     "rule": "substring"
+    },
+    {
+     "term": "الفوترة الإلكترونية",
+     "rule": "substring"
+    },
+    {
+     "term": "نظام الفوترة الوطني",
+     "rule": "substring"
+    },
+    {
+     "term": "الأرشفة الإلكترونية",
+     "rule": "substring"
+    },
+    {
+     "term": "ربط النظام المحاسبي",
+     "rule": "substring"
+    },
+    {
+     "term": "التقارير المستمرة",
+     "rule": "substring"
+    },
+    {
+     "term": "التقارير الفورية",
+     "rule": "substring"
+    },
+    {
+     "term": "التقارير اللحظية",
+     "rule": "substring"
+    },
+    {
+     "term": "أتمتة التقارير",
+     "rule": "substring"
+    },
+    {
+     "term": "المطابقة الآلية",
+     "rule": "substring"
+    },
+    {
+     "term": "الفوترة الوطنية",
+     "rule": "substring"
+    },
+    {
+     "term": "تقارير آلية",
+     "rule": "substring"
+    },
+    {
+     "term": "التقارير الذكية",
+     "rule": "substring"
+    },
+    {
+     "term": "الإفصاح الآلي",
+     "rule": "substring"
+    },
+    {
+     "term": "التوحيد الآلي",
+     "rule": "substring"
+    },
+    {
+     "term": "الإقفال الآلي",
+     "rule": "substring"
+    }
+   ]
+  },
+  "examples": {
+   "tier2": "أطلقت الشركة نظام الأرشفة الإلكترونية",
+   "tier1": "تم تطبيق نظام الأرشفة الإلكترونية"
+  }
+ },
+ "AI/ML": {
+  "description": "Artificial intelligence and machine learning",
+  "validated": true,
+  "terms": {
+   "en": [
+    {
+     "term": "intelligent customer service",
+     "rule": "substring"
+    },
+    {
+     "term": "natural language processing",
+     "rule": "substring"
+    },
+    {
+     "term": "robotic process automation",
+     "rule": "substring"
+    },
+    {
+     "term": "automated classification",
+     "rule": "substring"
+    },
+    {
+     "term": "automatic classification",
+     "rule": "substring"
+    },
+    {
+     "term": "artificial intelligence",
+     "rule": "substring"
+    },
+    {
+     "term": "predictive analytics",
+     "rule": "substring"
+    },
+    {
+     "term": "intelligent robot",
+     "rule": "substring"
+    },
+    {
+     "term": "virtual assistant",
+     "rule": "substring"
+    },
+    {
+     "term": "anomaly detection",
+     "rule": "substring"
+    },
+    {
+     "term": "machine learning",
+     "rule": "substring"
+    },
+    {
+     "term": "predictive model",
+     "rule": "substring"
+    },
+    {
+     "term": "fraud detection",
+     "rule": "substring"
+    },
+    {
+     "term": "neural network",
+     "rule": "substring"
+    },
+    {
+     "term": "generative AI",
+     "rule": "substring"
+    },
+    {
+     "term": "deep learning",
+     "rule": "substring"
+    },
+    {
+     "term": "chatbot",
+     "rule": "substring"
+    },
+    {
+     "term": "robot",
+     "rule": "requires_co_term"
+    },
+    {
+     "term": "NLP",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "RPA",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "ML",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "AI",
+     "rule": "requires_co_term"
+    }
+   ],
+   "ar": [
+    {
+     "term": "أتمتة العمليات الروبوتية",
+     "rule": "substring"
+    },
+    {
+     "term": "الذكاء الاصطناعي التوليدي",
+     "rule": "substring"
+    },
+    {
+     "term": "معالجة اللغات الطبيعية",
+     "rule": "substring"
+    },
+    {
+     "term": "معالجة اللغة الطبيعية",
+     "rule": "substring"
+    },
+    {
+     "term": "التحليلات التنبؤية",
+     "rule": "substring"
+    },
+    {
+     "term": "مساعد افتراضي",
+     "rule": "substring"
+    },
+    {
+     "term": "الأتمتة الروبوتية",
+     "rule": "substring"
+    },
+    {
+     "term": "الذكاء الاصطناعي",
+     "rule": "substring"
+    },
+    {
+     "term": "تصنيف تلقائي",
+     "rule": "substring"
+    },
+    {
+     "term": "نماذج تنبؤية",
+     "rule": "substring"
+    },
+    {
+     "term": "روبوت الدردشة",
+     "rule": "substring"
+    },
+    {
+     "term": "الشبكات العصبية",
+     "rule": "substring"
+    },
+    {
+     "term": "كشف الاحتيال",
+     "rule": "substring"
+    },
+    {
+     "term": "التصنيف الآلي",
+     "rule": "substring"
+    },
+    {
+     "term": "التعلم العميق",
+     "rule": "substring"
+    },
+    {
+     "term": "تعلم الآلة",
+     "rule": "substring"
+    },
+    {
+     "term": "التعلم الآلي",
+     "rule": "substring"
+    },
+    {
+     "term": "كشف الشذوذ",
+     "rule": "substring"
+    },
+    {
+     "term": "شات بوت",
+     "rule": "substring"
+    },
+    {
+     "term": "روبوت",
+     "rule": "requires_co_term"
+    }
+   ]
+  },
+  "examples": {
+   "tier2": "طبّق البنك أنظمة تعتمد الذكاء الاصطناعي",
+   "tier1": "نولي أهمية كبيرة للذكاء الاصطناعي"
+  }
+ },
+ "Cloud": {
+  "description": "Cloud computing",
+  "validated": true,
+  "terms": {
+   "en": [
+    {
+     "term": "infrastructure as a service",
+     "rule": "substring"
+    },
+    {
+     "term": "platform as a service",
+     "rule": "substring"
+    },
+    {
+     "term": "software as a service",
+     "rule": "substring"
+    },
+    {
+     "term": "migrated to the cloud",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud infrastructure",
+     "rule": "substring"
+    },
+    {
+     "term": "move to the cloud",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud accounting",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud migration",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud computing",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud platform",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud security",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud services",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud hosting",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud storage",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud backup",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud-based",
+     "rule": "substring"
+    },
+    {
+     "term": "cloud ERP",
+     "rule": "substring"
+    },
+    {
+     "term": "the cloud",
+     "rule": "substring"
+    },
+    {
+     "term": "IaaS",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "PaaS",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "SaaS",
+     "rule": "word_boundary+case_sensitive_raw"
+    }
+   ],
+   "ar": [
+    {
+     "term": "مراكز البيانات السحابية",
+     "rule": "substring"
+    },
+    {
+     "term": "النسخ الاحتياطي السحابي",
+     "rule": "substring"
+    },
+    {
+     "term": "البنية التحتية السحابية",
+     "rule": "substring"
+    },
+    {
+     "term": "نظام محاسبي سحابي",
+     "rule": "substring"
+    },
+    {
+     "term": "أمن البيانات السحابية",
+     "rule": "substring"
+    },
+    {
+     "term": "الانتقال إلى السحابة",
+     "rule": "substring"
+    },
+    {
+     "term": "السحابة الإلكترونية",
+     "rule": "substring"
+    },
+    {
+     "term": "الاستضافة السحابية",
+     "rule": "substring"
+    },
+    {
+     "term": "البرمجيات كخدمة",
+     "rule": "substring"
+    },
+    {
+     "term": "محاسبة سحابية",
+     "rule": "substring"
+    },
+    {
+     "term": "المنصات السحابية",
+     "rule": "substring"
+    },
+    {
+     "term": "الخدمات السحابية",
+     "rule": "substring"
+    },
+    {
+     "term": "الحوسبة السحابية",
+     "rule": "substring"
+    },
+    {
+     "term": "منصة سحابية",
+     "rule": "substring"
+    },
+    {
+     "term": "التخزين السحابي",
+     "rule": "substring"
+    },
+    {
+     "term": "الترحيل السحابي",
+     "rule": "substring"
+    },
+    {
+     "term": "أمن السحابة",
+     "rule": "substring"
+    }
+   ]
+  },
+  "examples": {
+   "tier2": "The company migrated its ERP to the cloud",
+   "tier1": "The company has access to cloud services"
+  }
+ },
+ "Big Data": {
+  "description": "Big data and advanced analytics",
+  "validated": true,
+  "terms": {
+   "en": [
+    {
+     "term": "intelligent data analysis",
+     "rule": "substring"
+    },
+    {
+     "term": "integrated data platform",
+     "rule": "substring"
+    },
+    {
+     "term": "business intelligence",
+     "rule": "substring"
+    },
+    {
+     "term": "real-time monitoring",
+     "rule": "substring"
+    },
+    {
+     "term": "data visualization",
+     "rule": "substring"
+    },
+    {
+     "term": "demand forecasting",
+     "rule": "substring"
+    },
+    {
+     "term": "big data analytics",
+     "rule": "substring"
+    },
+    {
+     "term": "internet of things",
+     "rule": "substring"
+    },
+    {
+     "term": "customer analytics",
+     "rule": "substring"
+    },
+    {
+     "term": "forecasting model",
+     "rule": "substring"
+    },
+    {
+     "term": "data warehouse",
+     "rule": "substring"
+    },
+    {
+     "term": "data analytics",
+     "rule": "substring"
+    },
+    {
+     "term": "data platform",
+     "rule": "substring"
+    },
+    {
+     "term": "smart meter",
+     "rule": "substring"
+    },
+    {
+     "term": "text mining",
+     "rule": "substring"
+    },
+    {
+     "term": "data mining",
+     "rule": "substring"
+    },
+    {
+     "term": "data lake",
+     "rule": "substring"
+    },
+    {
+     "term": "dashboard",
+     "rule": "substring"
+    },
+    {
+     "term": "big data",
+     "rule": "substring"
+    },
+    {
+     "term": "sensor",
+     "rule": "requires_co_term"
+    },
+    {
+     "term": "IoT",
+     "rule": "word_boundary+case_sensitive_raw"
+    },
+    {
+     "term": "BI",
+     "rule": "requires_co_term"
+    }
+   ],
+   "ar": [
+    {
+     "term": "تحليلات البيانات الضخمة",
+     "rule": "substring"
+    },
+    {
+     "term": "تحليل بيانات العملاء",
+     "rule": "substring"
+    },
+    {
+     "term": "التنقيب في البيانات",
+     "rule": "substring"
+    },
+    {
+     "term": "تحليلات البيانات",
+     "rule": "substring"
+    },
+    {
+     "term": "أجهزة الاستشعار",
+     "rule": "substring"
+    },
+    {
+     "term": "مستودع البيانات",
+     "rule": "substring"
+    },
+    {
+     "term": "لوحات المعلومات",
+     "rule": "substring"
+    },
+    {
+     "term": "لوحات المتابعة",
+     "rule": "substring"
+    },
+    {
+     "term": "إنترنت الأشياء",
+     "rule": "substring"
+    },
+    {
+     "term": "البيانات الكبيرة",
+     "rule": "substring"
+    },
+    {
+     "term": "تحليل البيانات",
+     "rule": "substring"
+    },
+    {
+     "term": "بحيرة البيانات",
+     "rule": "substring"
+    },
+    {
+     "term": "تنقيب البيانات",
+     "rule": "substring"
+    },
+    {
+     "term": "المراقبة اللحظية",
+     "rule": "substring"
+    },
+    {
+     "term": "لوحة بيانات",
+     "rule": "substring"
+    },
+    {
+     "term": "العدادات الذكية",
+     "rule": "substring"
+    },
+    {
+     "term": "منصة البيانات",
+     "rule": "substring"
+    },
+    {
+     "term": "التنبؤ بالطلب",
+     "rule": "substring"
+    },
+    {
+     "term": "البيانات الضخمة",
+     "rule": "substring"
+    },
+    {
+     "term": "نماذج التنبؤ",
+     "rule": "substring"
+    },
+    {
+     "term": "ذكاء الأعمال",
+     "rule": "substring"
+    },
+    {
+     "term": "التنقيب النصي",
+     "rule": "substring"
+    }
+   ]
+  },
+  "examples": {
+   "tier2": "By leveraging advanced analytics, the bank improved collections",
+   "tier1": "Data analytics is reshaping the sector"
+  }
+ }
+}

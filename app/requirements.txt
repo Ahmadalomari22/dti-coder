@@ -1,0 +1,7 @@
+gradio>=5
+pandas
+openpyxl
+torch
+transformers
+pdfplumber
+numpy
