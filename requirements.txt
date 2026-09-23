@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+torch
+transformers
+pdfplumber
+numpy
