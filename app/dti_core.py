@@ -109,9 +109,12 @@ def load_model(model_id=None):
     if _model is not None: return _model,_tok
     import torch
     from transformers import AutoTokenizer, AutoModelForSequenceClassification
-    model_id=model_id or os.environ.get('DTI_MODEL','')
+    model_id=model_id or os.environ.get('DTI_MODEL','ahmadomari/dti-coder-xlmr')
     if model_id and os.path.isdir(model_id) or (model_id and '/' in model_id and not model_id.endswith('.pt')):
-        _tok=AutoTokenizer.from_pretrained(model_id); _model=AutoModelForSequenceClassification.from_pretrained(model_id)
+        _tok=AutoTokenizer.from_pretrained(model_id); _model=AutoModelForSequenceClassification.from_pretrained(model_id,low_cpu_mem_usage=True)
+        if os.environ.get('DTI_QUANTIZE','0')=='1':   # dynamic int8 on the linear layers: smaller in RAM, needed on free hosting
+            try: _model=torch.quantization.quantize_dynamic(_model,{torch.nn.Linear},dtype=torch.qint8)
+            except Exception: pass
     else:
         _tok=AutoTokenizer.from_pretrained('xlm-roberta-base'); _model=AutoModelForSequenceClassification.from_pretrained('xlm-roberta-base',num_labels=2)
         pt=model_id or os.path.join(HERE,'best_A.pt')
