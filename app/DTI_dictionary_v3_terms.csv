@@ -1,0 +1,266 @@
+﻿technology,sub_concept_id,sub_concept,lang,term,term_norm_v3,rule,gate,source,v2_reason
+XBRL,XB-0,Generic XBRL term (technology-level),en,extensible business reporting language,extensible business reporting language,substring,,TH2.5.3,
+ERP,ERP-6,"ERP integration with external/advanced systems (APIs, banks, NLP)",en,application programming interface,application programming interface,substring,ERP-0,FACCIA2023,
+SAR,SAR-3,System integration for reporting (ERP ↔ disclosure platform ↔ BI),en,linked to the disclosure system,linked to the disclosure system,substring,,ASE,
+SAR,SAR-1,Automated financial statement generation / automated close and consolidation,en,automated financial statements,automated financial statements,substring,,DASHK2024,
+ERP,ERP-5,"ERP-based management reporting and costing (ABC, MES)",en,manufacturing execution system,manufacturing execution system,substring,,TSAI2020,
+SAR,SAR-4,Automated regulatory and disclosure reporting,en,automated regulatory reporting,automated regulatory reporting,substring,,TH2.5.3,
+SAR,SAR-5,Automated management reporting / board dashboards,en,automated management reporting,automated management reporting,substring,,TH2.5.3,
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",en,optical character recognition,optical character recognition,substring,,ASHRAF2025,
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),ar,تطبيق نظام تخطيط موارد المؤسسة,تطبيق نظام تخطيط موارد مؤسسه,substring,,AR,
+SAR,SAR-3,System integration for reporting (ERP ↔ disclosure platform ↔ BI),en,reporting system integration,reporting system integration,substring,,SHATILA2026,
+ERP,ERP-0,Generic ERP term (technology-level),en,enterprise resource planning,enterprise resource planning,substring,,TH2.5.3,
+AI/ML,AI-9,Chatbot / virtual assistant,en,intelligent customer service,intelligent customer service,substring,,LI2025,
+ERP,ERP-5,"ERP-based management reporting and costing (ABC, MES)",ar,محاسبة التكاليف على أساس النشاط,محاسبه تكاليف علي اساس نشاط,substring,,AR,
+AI/ML,AI-3,Natural language processing,en,natural language processing,natural language processing,substring,,TH2.5.5;LI2025,
+ERP,ERP-3,Automated transaction flow / elimination of manual re-entry,en,without manual intervention,without manual intervention,substring,,TH2.5.3,
+SAR,SAR-3,System integration for reporting (ERP ↔ disclosure platform ↔ BI),en,integrated reporting system,integrated reporting system,substring,,SHATILA2026,
+SAR,SAR-4,Automated regulatory and disclosure reporting,en,regulatory reporting system,regulatory reporting system,substring,,TH2.5.3,
+Cloud,CL-1,Cloud infrastructure / hosting / data centres (IaaS),en,infrastructure as a service,infrastructure as a service,substring,,ALOK2023,
+XBRL,XB-5,XBRL-related training and e-disclosure governance,en,disclosure system training,disclosure system training,substring,,KUNS2025,
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",en,document management system,document management system,substring,,ALOK2023,
+AI/ML,AI-8,RPA / robotic automation,en,robotic process automation,robotic process automation,substring,,HUS2022,
+Big Data,BD-4,Predictive and forecasting analytics (data-driven),en,intelligent data analysis,intelligent data analysis,substring,,LI2025,
+SAR,SAR-1,Automated financial statement generation / automated close and consolidation,en,automated reconciliation,automated reconciliation,substring,,ASHRAF2025,
+AI/ML,AI-6,Automated classification,en,automated classification,automated classification,substring,,TH2.5.5,
+Big Data,BD-2,Big data infrastructure / data warehouse / data platform,en,integrated data platform,integrated data platform,substring,,HUS2022,
+AI/ML,AI-6,Automated classification,en,automatic classification,automatic classification,substring,,TH2.5.5,
+AI/ML,AI-0,"Generic AI term (technology-level, not a sub-concept)",en,artificial intelligence,artificial intelligence,substring,,LI2025;HUS2022,
+SAR,SAR-1,Automated financial statement generation / automated close and consolidation,en,automated consolidation,automated consolidation,substring,,ASHRAF2025,
+SAR,SAR-1,Automated financial statement generation / automated close and consolidation,ar,توحيد القوائم المالية آلياً,توحيد قوائم ماليه اليا,substring,,AR-v2,Clearer than التوحيد الآلي
+SAR,SAR-1,Automated financial statement generation / automated close and consolidation,ar,إعداد القوائم المالية آلياً,اعداد قوائم ماليه اليا,substring,,AR,AR-5 mangled the stem in v1
+XBRL,XB-0,Generic XBRL term (technology-level),ar,لغة تقارير الأعمال الموسعة,لغه تقارير اعمال موسعه,substring,,AR,
+ERP,ERP-5,"ERP-based management reporting and costing (ABC, MES)",en,activity-based costing,activity based costing,substring,,TSAI2020,
+ERP,ERP-5,"ERP-based management reporting and costing (ABC, MES)",en,cost accounting system,cost accounting system,substring,,TSAI2020,
+Cloud,CL-2,Cloud platforms (PaaS),en,platform as a service,platform as a service,substring,,ALOK2023,
+ERP,ERP-2,"Module integration (finance/GL, procurement, inventory, HR, sales)",en,general ledger module,general ledger module,substring,,TH2.5.3,
+ERP,ERP-4,ERP for IFRS compliance and segment reporting,ar,التحول إلى المعايير الدولية,تحول الي معايير دوليه,substring,ERP-0,AR,"restored in v3, gated by ERP-0"
+XBRL,XB-1,XBRL filing / electronic disclosure submission,en,electronic disclosure,electronic disclosure,substring,,ASE,
+ERP,ERP-6,"ERP integration with external/advanced systems (APIs, banks, NLP)",ar,التكامل مع الأنظمة الخارجية,تكامل مع انظمه خارجيه,substring,,AR,
+Cloud,CL-3,Cloud software / SaaS / cloud-based accounting or ERP,en,software as a service,software as a service,substring,,ALOK2023,
+Big Data,BD-1,Data analytics / BI / dashboards,en,business intelligence,business intelligence,substring,,LI2025,
+Cloud,CL-5,Cloud migration / transition to cloud,en,migrated to the cloud,migrated to the cloud,substring,,HUS2022,
+SAR,SAR-3,System integration for reporting (ERP ↔ disclosure platform ↔ BI),ar,ربط الأنظمة بنظام الإفصاح,ربط انظمه بنظام افصاح,substring,,AR,
+AI/ML,AI-5,Predictive analytics (AI-based),en,predictive analytics,predictive analytics,substring,AI-0,TH2.5.5,
+SAR,SAR-4,Automated regulatory and disclosure reporting,en,automated disclosure,automated disclosure,substring,,TH2.5.3,
+Big Data,BD-5,Real-time monitoring and control systems,en,real-time monitoring,real time monitoring,substring,,SALEH2023,
+SAR,SAR-0,Generic automation-of-reporting term (technology-level),en,reporting automation,reporting automation,substring,,TH2.5.3,
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",en,electronic archiving,electronic archiving,substring,,ASHRAF2025,
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",en,electronic invoicing,electronic invoicing,substring,,JO-REG,
+SAR,SAR-5,Automated management reporting / board dashboards,en,management dashboard,management dashboard,substring,,SHATILA2026,
+SAR,SAR-2,Real-time / continuous reporting,en,continuous reporting,continuous reporting,substring,,SHATILA2026,
+XBRL,XB-5,XBRL-related training and e-disclosure governance,ar,مسؤول الإفصاح الإلكتروني,مسؤول افصاح الكتروني,substring,,AR,
+Cloud,CL-1,Cloud infrastructure / hosting / data centres (IaaS),en,cloud infrastructure,cloud infrastructure,substring,,ALOK2023,
+AI/ML,AI-8,RPA / robotic automation,ar,أتمتة العمليات الروبوتية,اتمته عمليات روبوتيه,substring,,AR-v2,Standard Arabic rendering of RPA
+XBRL,XB-5,XBRL-related training and e-disclosure governance,ar,تدريب على نظام الإفصاح,تدريب علي نظام افصاح,substring,,AR,
+XBRL,XB-4,Structured / machine-readable data use beyond compliance,en,structured reporting,structured reporting,substring,,TH2.5.3,
+ERP,ERP-6,"ERP integration with external/advanced systems (APIs, banks, NLP)",ar,الربط الإلكتروني مع البنوك,ربط الكتروني مع بنوك,substring,,AR,
+SAR,SAR-4,Automated regulatory and disclosure reporting,ar,أتمتة التقارير الرقابية,اتمته تقارير رقابيه,substring,,AR,
+Big Data,BD-0,Generic big data term (technology-level),ar,تحليلات البيانات الضخمة,تحليلات بيانات ضخمه,substring,,AR,
+SAR,SAR-0,Generic automation-of-reporting term (technology-level),en,automated reporting,automated reporting,substring,,TH2.5.3,
+SAR,SAR-2,Real-time / continuous reporting,en,real-time financial,real time financial,substring,,SHATILA2026,
+SAR,SAR-2,Real-time / continuous reporting,en,real-time reporting,real time reporting,substring,,SHATILA2026,
+XBRL,XB-1,XBRL filing / electronic disclosure submission,ar,نظام الإفصاح الإلكتروني,نظام افصاح الكتروني,substring,,ASE,
+ERP,ERP-6,"ERP integration with external/advanced systems (APIs, banks, NLP)",ar,واجهة برمجة التطبيقات,واجهه برمجه تطبيقات,substring,,AR,
+Cloud,CL-1,Cloud infrastructure / hosting / data centres (IaaS),ar,مراكز البيانات السحابية,مراكز بيانات سحابيه,substring,,AR,
+AI/ML,AI-0,"Generic AI term (technology-level, not a sub-concept)",ar,الذكاء الاصطناعي التوليدي,ذكاء اصطناعي توليدي,substring,,AR,
+SAR,SAR-5,Automated management reporting / board dashboards,ar,أتمتة التقارير الإدارية,اتمته تقارير اداريه,substring,,AR,
+Big Data,BD-1,Data analytics / BI / dashboards,en,data visualization,data visualization,substring,,LI2025,
+Big Data,BD-6,Customer / market analytics,ar,تحليل بيانات العملاء,تحليل بيانات عملاء,substring,,AR,
+AI/ML,AI-3,Natural language processing,ar,معالجة اللغات الطبيعية,معالجه لغات طبيعيه,substring,,AR,
+SAR,SAR-3,System integration for reporting (ERP ↔ disclosure platform ↔ BI),ar,تكامل أنظمة التقارير,تكامل انظمه تقارير,substring,,AR,
+SAR,SAR-4,Automated regulatory and disclosure reporting,ar,التقارير الرقابية الآلية,تقارير رقابيه اليه,substring,,AR,
+Big Data,BD-4,Predictive and forecasting analytics (data-driven),en,demand forecasting,demand forecasting,substring,,HUS2022,
+SAR,SAR-0,Generic automation-of-reporting term (technology-level),ar,أتمتة إعداد التقارير,اتمته اعداد تقارير,substring,,AR,
+Big Data,BD-0,Generic big data term (technology-level),en,big data analytics,big data analytics,substring,,TH2.5.3,
+ERP,ERP-2,"Module integration (finance/GL, procurement, inventory, HR, sales)",ar,قاعدة بيانات موحدة,قاعده بيانات موحده,substring,,AR,
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",ar,التعرف الضوئي على الحروف,تعرف ضوئي علي حروف,substring,,AR,
+Big Data,BD-7,IoT / sensor data,en,internet of things,internet of things,substring,,HUS2022;LI2025,
+Big Data,BD-6,Customer / market analytics,en,customer analytics,customer analytics,substring,,TH2.5.3,
+ERP,ERP-2,"Module integration (finance/GL, procurement, inventory, HR, sales)",en,procurement module,procurement module,substring,,TH2.5.3,
+ERP,ERP-3,Automated transaction flow / elimination of manual re-entry,en,automated workflow,automated workflow,substring,,ASHRAF2025,
+ERP,ERP-0,Generic ERP term (technology-level),ar,تخطيط موارد المؤسسات,تخطيط موارد مؤسسات,substring,,AR,
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),en,Microsoft Dynamics,microsoft dynamics,substring,,ALTIN2025,
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),en,ERP implementation,erp implementation,substring,,ALTIN2025,
+XBRL,XB-4,Structured / machine-readable data use beyond compliance,ar,قابلة للقراءة الآلية,قابله للقراءه اليه,substring,,AR,AR-5 mangled the stem in v1
+ERP,ERP-2,"Module integration (finance/GL, procurement, inventory, HR, sales)",en,integrated modules,integrated modules,substring,,TH2.5.3,
+ERP,ERP-6,"ERP integration with external/advanced systems (APIs, banks, NLP)",en,system integration,system integration,substring,,SHATILA2026,
+Cloud,CL-4,"Cloud storage, backup and disaster recovery",ar,النسخ الاحتياطي السحابي,نسخ احتياطي سحابي,substring,,AR,
+ERP,ERP-3,Automated transaction flow / elimination of manual re-entry,en,automatic posting,automatic posting,substring,,TH2.5.3,
+Cloud,CL-1,Cloud infrastructure / hosting / data centres (IaaS),ar,البنية التحتية السحابية,بنيه تحتيه سحابيه,substring,,AR,
+AI/ML,AI-8,RPA / robotic automation,en,intelligent robot,intelligent robot,substring,,LI2025,
+AI/ML,AI-9,Chatbot / virtual assistant,en,virtual assistant,virtual assistant,substring,,LI2025,
+ERP,ERP-0,Generic ERP term (technology-level),ar,تخطيط موارد المؤسسة,تخطيط موارد مؤسسه,substring,,AR,
+ERP,ERP-4,ERP for IFRS compliance and segment reporting,en,segment reporting,segment reporting,substring,ERP-0,TSAI2020,"restored in v3, gated by ERP-0"
+Cloud,CL-3,Cloud software / SaaS / cloud-based accounting or ERP,ar,نظام محاسبي سحابي,نظام محاسبي سحابي,substring,,AR,
+SAR,SAR-5,Automated management reporting / board dashboards,ar,لوحة تقارير الإدارة,لوحه تقارير اداره,substring,,AR,
+AI/ML,AI-7,Anomaly / fraud detection,en,anomaly detection,anomaly detection,substring,,TH2.5.5,
+AI/ML,AI-3,Natural language processing,ar,معالجة اللغة الطبيعية,معالجه لغه طبيعيه,substring,,AR,
+Cloud,CL-6,Cloud security and data privacy,ar,أمن البيانات السحابية,امن بيانات سحابيه,substring,,AR,
+SAR,SAR-5,Automated management reporting / board dashboards,en,report automation,report automation,substring,,SHATILA2026,
+Big Data,BD-4,Predictive and forecasting analytics (data-driven),en,forecasting model,forecasting model,substring,,SALEH2023,
+SAR,SAR-5,Automated management reporting / board dashboards,en,automated reports,automated reports,substring,,SHATILA2026,
+Cloud,CL-5,Cloud migration / transition to cloud,en,move to the cloud,move to the cloud,substring,,HUS2022,
+Cloud,CL-5,Cloud migration / transition to cloud,ar,الانتقال إلى السحابة,انتقال الي سحابه,substring,,AR,AR-5 mangled the stem in v1
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",ar,نظام إدارة الوثائق,نظام اداره وثائق,substring,,AR,
+Cloud,CL-3,Cloud software / SaaS / cloud-based accounting or ERP,en,cloud accounting,cloud accounting,substring,,FACCIA2019,
+ERP,ERP-2,"Module integration (finance/GL, procurement, inventory, HR, sales)",en,inventory module,inventory module,substring,,TH2.5.3,
+ERP,ERP-6,"ERP integration with external/advanced systems (APIs, banks, NLP)",en,bank integration,bank integration,substring,,FACCIA2023,
+AI/ML,AI-1,Machine learning,en,machine learning,machine learning,substring,,TH2.5.5;LI2025,
+XBRL,XB-4,Structured / machine-readable data use beyond compliance,en,machine-readable,machine readable,substring,,TH2.5.3,
+ERP,ERP-0,Generic ERP term (technology-level),ar,نظام تخطيط الموارد,نظام تخطيط موارد,substring,,AR,
+ERP,ERP-5,"ERP-based management reporting and costing (ABC, MES)",ar,نظام تنفيذ التصنيع,نظام تنفيذ تصنيع,substring,,AR,
+XBRL,XB-3,XBRL-enabled systems / in-house preparation,ar,إعداد ملفات XBRL,اعداد ملفات xbrl,substring,,AR,AR-5 mangled the stem in v1
+AI/ML,AI-5,Predictive analytics (AI-based),en,predictive model,predictive model,substring,AI-0,TH2.5.5,
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",ar,الفوترة الإلكترونية,فوتره الكترونيه,substring,,JO-REG,
+SAR,SAR-0,Generic automation-of-reporting term (technology-level),en,smart reporting,smart reporting,substring,,TH2.5.3,
+Cloud,CL-0,Generic cloud term (technology-level),ar,السحابة الإلكترونية,سحابه الكترونيه,substring,,AR,
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",ar,نظام الفوترة الوطني,نظام فوتره وطني,substring,,JO-REG,
+AI/ML,AI-7,Anomaly / fraud detection,en,fraud detection,fraud detection,substring,,LI2025,
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",ar,الأرشفة الإلكترونية,ارشفه الكترونيه,substring,,AR,
+Cloud,CL-5,Cloud migration / transition to cloud,en,cloud migration,cloud migration,substring,,HUS2022,
+Cloud,CL-0,Generic cloud term (technology-level),en,cloud computing,cloud computing,substring,,LI2025;HUS2022,
+ERP,ERP-4,ERP for IFRS compliance and segment reporting,en,IFRS conversion,ifrs conversion,substring,ERP-0,ALTIN2025,"restored in v3, gated by ERP-0"
+ERP,ERP-2,"Module integration (finance/GL, procurement, inventory, HR, sales)",en,shared database,shared database,substring,,TH2.5.3,
+Big Data,BD-3,Data mining / text mining,ar,التنقيب في البيانات,تنقيب في بيانات,substring,,AR,
+SAR,SAR-3,System integration for reporting (ERP ↔ disclosure platform ↔ BI),ar,ربط النظام المحاسبي,ربط نظام محاسبي,substring,,AR,
+XBRL,XB-4,Structured / machine-readable data use beyond compliance,en,structured data,structured data,substring,,TH2.5.3,
+SAR,SAR-1,Automated financial statement generation / automated close and consolidation,en,automated close,automated close,substring,,ASHRAF2025,
+Cloud,CL-1,Cloud infrastructure / hosting / data centres (IaaS),ar,الاستضافة السحابية,استضافه سحابيه,substring,,AR,
+SAR,SAR-2,Real-time / continuous reporting,en,live reporting,live reporting,substring,,SHATILA2026,
+AI/ML,AI-5,Predictive analytics (AI-based),ar,التحليلات التنبؤية,تحليلات تنبؤيه,substring,AI-0,AR,
+AI/ML,AI-2,Neural networks,en,neural network,neural network,substring,,TH2.5.5,
+Cloud,CL-2,Cloud platforms (PaaS),en,cloud platform,cloud platform,substring,,ALOK2023,
+Big Data,BD-1,Data analytics / BI / dashboards,ar,تحليلات البيانات,تحليلات بيانات,substring,,AR,
+Cloud,CL-6,Cloud security and data privacy,en,cloud security,cloud security,substring,,ALOK2023,
+Big Data,BD-2,Big data infrastructure / data warehouse / data platform,en,data warehouse,data warehouse,substring,,LI2025,
+Big Data,BD-1,Data analytics / BI / dashboards,en,data analytics,data analytics,substring,,HUS2022,
+Cloud,CL-0,Generic cloud term (technology-level),en,cloud services,cloud services,substring,,ALOK2023,
+XBRL,XB-1,XBRL filing / electronic disclosure submission,ar,الإفصاح الإلكتروني,افصاح الكتروني,substring,,ASE,
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),ar,تحديث نظام ERP,تحديث نظام erp,substring,,AR,AR-5 mangled the stem in v1
+XBRL,XB-3,XBRL-enabled systems / in-house preparation,en,XBRL solution,xbrl solution,substring,,FACCIA2019,
+AI/ML,AI-9,Chatbot / virtual assistant,ar,مساعد افتراضي,مساعد افتراضي,substring,,AR,
+Cloud,CL-3,Cloud software / SaaS / cloud-based accounting or ERP,ar,البرمجيات كخدمة,برمجيات كخدمه,substring,,AR,
+XBRL,XB-5,XBRL-related training and e-disclosure governance,en,XBRL training,xbrl training,substring,,KUNS2025,
+AI/ML,AI-0,"Generic AI term (technology-level, not a sub-concept)",en,generative AI,generative ai,substring,,FACCIA2023,
+Cloud,CL-1,Cloud infrastructure / hosting / data centres (IaaS),en,cloud hosting,cloud hosting,substring,,ALOK2023,
+Big Data,BD-7,IoT / sensor data,ar,أجهزة الاستشعار,اجهزه استشعار,substring,,AR,
+Big Data,BD-2,Big data infrastructure / data warehouse / data platform,ar,مستودع البيانات,مستودع بيانات,substring,,AR,
+Big Data,BD-1,Data analytics / BI / dashboards,ar,لوحات المعلومات,لوحات معلومات,substring,,AR,
+Big Data,BD-2,Big data infrastructure / data warehouse / data platform,en,data platform,data platform,substring,,HUS2022,
+AI/ML,AI-8,RPA / robotic automation,ar,الأتمتة الروبوتية,اتمته روبوتيه,substring,,AR,
+AI/ML,AI-4,Deep learning,en,deep learning,deep learning,substring,,TH2.5.5;LI2025,
+Cloud,CL-3,Cloud software / SaaS / cloud-based accounting or ERP,ar,محاسبة سحابية,محاسبه سحابيه,substring,,AR,
+Cloud,CL-4,"Cloud storage, backup and disaster recovery",en,cloud storage,cloud storage,substring,,ALOK2023,
+XBRL,XB-4,Structured / machine-readable data use beyond compliance,ar,بيانات مهيكلة,بيانات مهيكله,substring,,AR,
+XBRL,XB-3,XBRL-enabled systems / in-house preparation,en,XBRL software,xbrl software,substring,,FACCIA2019,
+ERP,ERP-4,ERP for IFRS compliance and segment reporting,ar,التقارير القطاعية,تقارير قطاعيه,substring,ERP-0,AR,"restored in v3, gated by ERP-0"
+SAR,SAR-2,Real-time / continuous reporting,ar,التقارير المستمرة,تقارير مستمره,substring,,AR,
+XBRL,XB-4,Structured / machine-readable data use beyond compliance,ar,التقارير المهيكلة,تقارير مهيكله,substring,,AR,
+Cloud,CL-4,"Cloud storage, backup and disaster recovery",en,cloud backup,cloud backup,substring,,ALOK2023,
+Big Data,BD-1,Data analytics / BI / dashboards,ar,لوحات المتابعة,لوحات متابعه,substring,,AR-v2,Replaces لوحة تحكم
+SAR,SAR-2,Real-time / continuous reporting,ar,التقارير الفورية,تقارير فوريه,substring,,AR,
+AI/ML,AI-0,"Generic AI term (technology-level, not a sub-concept)",ar,الذكاء الاصطناعي,ذكاء اصطناعي,substring,,AR,
+Big Data,BD-7,IoT / sensor data,ar,إنترنت الأشياء,انترنت اشياء,substring,,AR,
+Big Data,BD-0,Generic big data term (technology-level),ar,البيانات الكبيرة,بيانات كبيره,substring,,AR,
+SAR,SAR-2,Real-time / continuous reporting,ar,التقارير اللحظية,تقارير لحظيه,substring,,AR,
+XBRL,XB-0,Generic XBRL term (technology-level),ar,اكس بي ار ال,اكس بي ار ال,substring,,AR,AR-5 mangled the stem in v1
+Cloud,CL-2,Cloud platforms (PaaS),ar,المنصات السحابية,منصات سحابيه,substring,,AR,
+XBRL,XB-3,XBRL-enabled systems / in-house preparation,en,XBRL-enabled,xbrl enabled,substring,,FACCIA2019,
+XBRL,XB-1,XBRL filing / electronic disclosure submission,en,e-disclosure,e disclosure,substring,,ASE,
+AI/ML,AI-6,Automated classification,ar,تصنيف تلقائي,تصنيف تلقائي,substring,,AR,
+AI/ML,AI-5,Predictive analytics (AI-based),ar,نماذج تنبؤية,نماذج تنبؤيه,substring,AI-0,AR,
+Cloud,CL-0,Generic cloud term (technology-level),ar,الخدمات السحابية,خدمات سحابيه,substring,,AR,
+Big Data,BD-1,Data analytics / BI / dashboards,ar,تحليل البيانات,تحليل بيانات,substring,,AR,
+Big Data,BD-2,Big data infrastructure / data warehouse / data platform,ar,بحيرة البيانات,بحيره بيانات,substring,,AR,
+Cloud,CL-0,Generic cloud term (technology-level),ar,الحوسبة السحابية,حوسبه سحابيه,substring,,AR,
+Big Data,BD-3,Data mining / text mining,ar,تنقيب البيانات,تنقيب بيانات,substring,,AR,
+Big Data,BD-5,Real-time monitoring and control systems,ar,المراقبة اللحظية,مراقبه لحظيه,substring,,AR,
+SAR,SAR-0,Generic automation-of-reporting term (technology-level),ar,أتمتة التقارير,اتمته تقارير,substring,,AR,
+Big Data,BD-7,IoT / sensor data,en,smart meter,smart meter,substring,,LI2025,
+XBRL,XB-3,XBRL-enabled systems / in-house preparation,ar,برنامج XBRL,برنامج xbrl,substring,,AR,AR-5 mangled the stem in v1
+AI/ML,AI-9,Chatbot / virtual assistant,ar,روبوت الدردشة,روبوت دردشه,substring,,AR,
+Cloud,CL-2,Cloud platforms (PaaS),ar,منصة سحابية,منصه سحابيه,substring,,AR,
+Cloud,CL-4,"Cloud storage, backup and disaster recovery",ar,التخزين السحابي,تخزين سحابي,substring,,AR,
+SAR,SAR-1,Automated financial statement generation / automated close and consolidation,ar,المطابقة الآلية,مطابقه اليه,substring,,AR,AR-5 mangled the stem in v1
+Cloud,CL-3,Cloud software / SaaS / cloud-based accounting or ERP,en,cloud-based,cloud based,substring,,HUS2022,
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),ar,نظام أوراكل,نظام اوراكل,substring,,AR-v2,Jordanian firms write it this way
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",ar,الفوترة الوطنية,فوتره وطنيه,substring,,AR-v2,Official name of the Jordanian national e-invoicing system
+Big Data,BD-1,Data analytics / BI / dashboards,ar,لوحة بيانات,لوحه بيانات,substring,,AR-v2,Replaces لوحة تحكم
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),en,ERP upgrade,erp upgrade,substring,,ALTIN2025,
+Big Data,BD-7,IoT / sensor data,ar,العدادات الذكية,عدادات ذكيه,substring,,AR,
+XBRL,XB-1,XBRL filing / electronic disclosure submission,en,XBRL filing,xbrl filing,substring,,KUNS2025,
+ERP,ERP-5,"ERP-based management reporting and costing (ABC, MES)",ar,نظام التكاليف,نظام تكاليف,requires_co_term,,AR,
+AI/ML,AI-2,Neural networks,ar,الشبكات العصبية,شبكات عصبيه,substring,,AR,
+SAR,SAR-5,Automated management reporting / board dashboards,ar,تقارير آلية,تقارير اليه,substring,,AR,AR-5 mangled the stem in v1
+SAR,SAR-0,Generic automation-of-reporting term (technology-level),ar,التقارير الذكية,تقارير ذكيه,substring,,AR,
+Big Data,BD-3,Data mining / text mining,en,text mining,text mining,substring,,LI2025,
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",en,e-invoicing,e invoicing,substring,,JO-REG,
+Cloud,CL-5,Cloud migration / transition to cloud,ar,الترحيل السحابي,ترحيل سحابي,substring,,AR,
+Big Data,BD-3,Data mining / text mining,en,data mining,data mining,substring,,LI2025,
+Big Data,BD-2,Big data infrastructure / data warehouse / data platform,ar,منصة البيانات,منصه بيانات,substring,,AR,
+Big Data,BD-4,Predictive and forecasting analytics (data-driven),ar,التنبؤ بالطلب,تنبؤ بالطلب,substring,,AR,
+ERP,ERP-3,Automated transaction flow / elimination of manual re-entry,ar,سير العمل الآلي,سير عمل الي,substring,,AR,AR-5 mangled the stem in v1
+ERP,ERP-2,"Module integration (finance/GL, procurement, inventory, HR, sales)",ar,تكامل الأنظمة,تكامل انظمه,substring,,AR,
+Big Data,BD-0,Generic big data term (technology-level),ar,البيانات الضخمة,بيانات ضخمه,substring,,AR,
+XBRL,XB-1,XBRL filing / electronic disclosure submission,en,XBRL format,xbrl format,substring,,ASE,
+Big Data,BD-4,Predictive and forecasting analytics (data-driven),ar,نماذج التنبؤ,نماذج تنبؤ,substring,,AR,
+Big Data,BD-1,Data analytics / BI / dashboards,ar,ذكاء الأعمال,ذكاء اعمال,substring,,AR,
+AI/ML,AI-7,Anomaly / fraud detection,ar,كشف الاحتيال,كشف احتيال,substring,,AR,
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),ar,برنامج ساب,برنامج ساب,substring,,AR-v2,Jordanian firms write it this way
+XBRL,XB-2,XBRL tagging and taxonomy use,ar,تصنيف XBRL,تصنيف xbrl,substring,,AR-v2,Replaces التصنيف المرجعي
+XBRL,XB-5,XBRL-related training and e-disclosure governance,ar,تدريب XBRL,تدريب xbrl,substring,,AR,AR-5 mangled the stem in v1
+ERP,ERP-0,Generic ERP term (technology-level),en,ERP system,erp system,substring,,ALTIN2025,
+ERP,ERP-2,"Module integration (finance/GL, procurement, inventory, HR, sales)",ar,وحدات النظام,وحدات نظام,substring,,AR,
+ERP,ERP-3,Automated transaction flow / elimination of manual re-entry,ar,الترحيل الآلي,ترحيل الي,substring,,AR,AR-5 mangled the stem in v1
+XBRL,XB-2,XBRL tagging and taxonomy use,ar,وسوم XBRL,وسوم xbrl,substring,,AR,AR-5 mangled the stem in v1
+XBRL,XB-1,XBRL filing / electronic disclosure submission,ar,بلغة XBRL,بلغه xbrl,substring,,ASE,AR-5 mangled the stem in v1
+XBRL,XB-1,XBRL filing / electronic disclosure submission,ar,صيغة XBRL,صيغه xbrl,substring,,AR,AR-5 mangled the stem in v1
+AI/ML,AI-6,Automated classification,ar,التصنيف الآلي,تصنيف الي,substring,,AR,AR-5 mangled the stem in v1
+AI/ML,AI-4,Deep learning,ar,التعلم العميق,تعلم عميق,substring,,AR,
+SAR,SAR-4,Automated regulatory and disclosure reporting,ar,الإفصاح الآلي,افصاح الي,substring,,AR,AR-5 mangled the stem in v1
+Big Data,BD-3,Data mining / text mining,ar,التنقيب النصي,تنقيب نصي,substring,,AR,
+ERP,ERP-2,"Module integration (finance/GL, procurement, inventory, HR, sales)",ar,ربط الأنظمة,ربط انظمه,substring,,AR,
+ERP,ERP-2,"Module integration (finance/GL, procurement, inventory, HR, sales)",en,HR module,hr module,substring,,TH2.5.3,
+Cloud,CL-3,Cloud software / SaaS / cloud-based accounting or ERP,en,cloud ERP,cloud erp,substring,,ALOK2023,
+XBRL,XB-3,XBRL-enabled systems / in-house preparation,ar,نظام XBRL,نظام xbrl,substring,,AR,AR-5 mangled the stem in v1
+SAR,SAR-1,Automated financial statement generation / automated close and consolidation,ar,التوحيد الآلي,توحيد الي,substring,,AR,AR-5 mangled the stem in v1
+SAR,SAR-1,Automated financial statement generation / automated close and consolidation,ar,الإقفال الآلي,اقفال الي,substring,,AR,AR-5 mangled the stem in v1
+Cloud,CL-0,Generic cloud term (technology-level),en,the cloud,the cloud,substring,,HUS2022,
+Big Data,BD-2,Big data infrastructure / data warehouse / data platform,en,data lake,data lake,substring,,LI2025,
+Big Data,BD-1,Data analytics / BI / dashboards,en,dashboard,dashboard,substring,,LI2025,
+Cloud,CL-6,Cloud security and data privacy,ar,أمن السحابة,امن سحابه,substring,,AR,
+AI/ML,AI-1,Machine learning,ar,تعلم الآلة,تعلم اله,substring,,AR,
+AI/ML,AI-1,Machine learning,ar,التعلم الآلي,تعلم الي,substring,,AR,AR-5 mangled the stem in v1
+XBRL,XB-2,XBRL tagging and taxonomy use,en,XBRL tag,xbrl tag,substring,,TH2.5.3,
+AI/ML,AI-7,Anomaly / fraud detection,ar,كشف الشذوذ,كشف شذوذ,substring,,AR,
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),ar,نظام ساب,نظام ساب,substring,,AR,
+XBRL,XB-2,XBRL tagging and taxonomy use,en,taxonomy,taxonomy,requires_co_term,XB-0,TH2.5.3,
+Big Data,BD-0,Generic big data term (technology-level),en,big data,big data,substring,,LI2025;HUS2022,
+AI/ML,AI-9,Chatbot / virtual assistant,en,chatbot,chatbot,substring,,LI2025,
+AI/ML,AI-9,Chatbot / virtual assistant,ar,شات بوت,شات بوت,substring,,AR,
+XBRL,XB-2,XBRL tagging and taxonomy use,en,tagging,tagging,requires_co_term,XB-0,TH2.5.3,
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),en,Oracle,oracle,substring,,ALTIN2025,
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),ar,أوراكل,اوراكل,substring,,AR,
+Big Data,BD-7,IoT / sensor data,en,sensor,sensor,requires_co_term,,HUS2022,
+ERP,ERP-4,ERP for IFRS compliance and segment reporting,en,IFRS 8,ifrs 8,substring,ERP-0,TSAI2020,"restored in v3, gated by ERP-0"
+XBRL,XB-2,XBRL tagging and taxonomy use,en,iXBRL,ixbrl,word_boundary+case_sensitive_raw,,TH2.5.3,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+XBRL,XB-2,XBRL tagging and taxonomy use,ar,الترميز,ترميز,requires_co_term,XB-0,AR,
+AI/ML,AI-8,RPA / robotic automation,ar,روبوت,روبوت,requires_co_term,AI-0,AR,
+AI/ML,AI-8,RPA / robotic automation,en,robot,robot,requires_co_term,AI-0,HUS2022,
+Cloud,CL-1,Cloud infrastructure / hosting / data centres (IaaS),en,IaaS,iaas,word_boundary+case_sensitive_raw,,ALOK2023,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+Cloud,CL-2,Cloud platforms (PaaS),en,PaaS,paas,word_boundary+case_sensitive_raw,,ALOK2023,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+XBRL,XB-0,Generic XBRL term (technology-level),en,XBRL,xbrl,word_boundary+case_sensitive_raw,,TH2.5.3,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+Cloud,CL-3,Cloud software / SaaS / cloud-based accounting or ERP,en,SaaS,saas,word_boundary+case_sensitive_raw,,ALOK2023,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),en,Odoo,odoo,word_boundary+case_sensitive_raw,,ALTIN2025,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+AI/ML,AI-3,Natural language processing,en,NLP,nlp,word_boundary+case_sensitive_raw,,TH2.5.5,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+AI/ML,AI-8,RPA / robotic automation,en,RPA,rpa,word_boundary+case_sensitive_raw,,HUS2022,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+Big Data,BD-7,IoT / sensor data,en,IoT,iot,word_boundary+case_sensitive_raw,,HUS2022,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+ERP,ERP-6,"ERP integration with external/advanced systems (APIs, banks, NLP)",en,API,api,word_boundary+case_sensitive_raw,ERP-0,FACCIA2023,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+ERP,ERP-5,"ERP-based management reporting and costing (ABC, MES)",en,MES,mes,word_boundary+case_sensitive_raw,,TSAI2020,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+SAR,SAR-6,"Document automation feeding reporting (OCR, e-invoicing, e-archiving)",en,OCR,ocr,word_boundary+case_sensitive_raw,,ASHRAF2025,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+ERP,ERP-1,ERP implementation / upgrade (incl. named systems),en,SAP,sap,word_boundary+case_sensitive_raw,,ALTIN2025,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+ERP,ERP-0,Generic ERP term (technology-level),en,ERP,erp,word_boundary+case_sensitive_raw,,TH2.5.3;ALTIN2025,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+AI/ML,AI-1,Machine learning,en,ML,ml,word_boundary+case_sensitive_raw,,TH2.5.5,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+Big Data,BD-1,Data analytics / BI / dashboards,en,BI,bi,requires_co_term,,LI2025,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
+AI/ML,AI-0,"Generic AI term (technology-level, not a sub-concept)",en,AI,ai,requires_co_term,,HUS2022,"Short Latin acronym: substring matching produced 86/86 FP in the JTEL pilot (api in capital, erp in enterprise, mes in homes, sap in disappearance)"
