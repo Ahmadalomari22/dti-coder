@@ -1,0 +1,333 @@
+{
+ "method": "firm-grouped 5-fold CV over 1,648 sentences (88 firms); inner 20% of training firms select epoch (1-5) and threshold per fold; pooled out-of-fold predictions; bootstrap 2,000 resamples seed 2027",
+ "folds": [
+  {
+   "fold": 0,
+   "train_n": 1092,
+   "train_pos": 163,
+   "inner_val_n": 161,
+   "inner_val_pos": 18,
+   "test_n": 395,
+   "test_pos": 78,
+   "best_epoch": 2,
+   "threshold": 0.1,
+   "inner_val_f1": 0.824,
+   "en": {
+    "n": 231,
+    "pos": 48,
+    "model": [
+     0.955,
+     0.875,
+     0.913
+    ],
+    "hybrid": [
+     0.955,
+     0.875,
+     0.913
+    ],
+    "dictionary": [
+     0.658,
+     1.0,
+     0.793
+    ]
+   },
+   "ar": {
+    "n": 164,
+    "pos": 30,
+    "model": [
+     0.824,
+     0.933,
+     0.875
+    ],
+    "hybrid": [
+     0.875,
+     0.933,
+     0.903
+    ],
+    "dictionary": [
+     0.769,
+     1.0,
+     0.87
+    ]
+   }
+  },
+  {
+   "fold": 1,
+   "train_n": 1198,
+   "train_pos": 188,
+   "inner_val_n": 80,
+   "inner_val_pos": 3,
+   "test_n": 370,
+   "test_pos": 68,
+   "best_epoch": 2,
+   "threshold": 0.82,
+   "inner_val_f1": 1.0,
+   "en": {
+    "n": 184,
+    "pos": 38,
+    "model": [
+     1.0,
+     0.921,
+     0.959
+    ],
+    "hybrid": [
+     1.0,
+     0.921,
+     0.959
+    ],
+    "dictionary": [
+     0.691,
+     1.0,
+     0.817
+    ]
+   },
+   "ar": {
+    "n": 186,
+    "pos": 30,
+    "model": [
+     0.897,
+     0.867,
+     0.881
+    ],
+    "hybrid": [
+     0.897,
+     0.867,
+     0.881
+    ],
+    "dictionary": [
+     0.667,
+     1.0,
+     0.8
+    ]
+   }
+  },
+  {
+   "fold": 2,
+   "train_n": 1124,
+   "train_pos": 184,
+   "inner_val_n": 206,
+   "inner_val_pos": 31,
+   "test_n": 318,
+   "test_pos": 44,
+   "best_epoch": 4,
+   "threshold": 0.14,
+   "inner_val_f1": 0.925,
+   "en": {
+    "n": 141,
+    "pos": 19,
+    "model": [
+     0.486,
+     0.947,
+     0.643
+    ],
+    "hybrid": [
+     0.667,
+     0.947,
+     0.783
+    ],
+    "dictionary": [
+     0.514,
+     1.0,
+     0.679
+    ]
+   },
+   "ar": {
+    "n": 177,
+    "pos": 25,
+    "model": [
+     0.658,
+     1.0,
+     0.794
+    ],
+    "hybrid": [
+     0.694,
+     1.0,
+     0.82
+    ],
+    "dictionary": [
+     0.532,
+     1.0,
+     0.694
+    ]
+   }
+  },
+  {
+   "fold": 3,
+   "train_n": 1183,
+   "train_pos": 170,
+   "inner_val_n": 261,
+   "inner_val_pos": 52,
+   "test_n": 204,
+   "test_pos": 37,
+   "best_epoch": 2,
+   "threshold": 0.66,
+   "inner_val_f1": 0.94,
+   "en": {
+    "n": 103,
+    "pos": 21,
+    "model": [
+     0.905,
+     0.905,
+     0.905
+    ],
+    "hybrid": [
+     0.905,
+     0.905,
+     0.905
+    ],
+    "dictionary": [
+     0.7,
+     1.0,
+     0.824
+    ]
+   },
+   "ar": {
+    "n": 101,
+    "pos": 16,
+    "model": [
+     0.933,
+     0.875,
+     0.903
+    ],
+    "hybrid": [
+     0.933,
+     0.875,
+     0.903
+    ],
+    "dictionary": [
+     0.64,
+     1.0,
+     0.78
+    ]
+   }
+  },
+  {
+   "fold": 4,
+   "train_n": 1132,
+   "train_pos": 208,
+   "inner_val_n": 155,
+   "inner_val_pos": 19,
+   "test_n": 361,
+   "test_pos": 32,
+   "best_epoch": 1,
+   "threshold": 0.36,
+   "inner_val_f1": 0.9,
+   "en": {
+    "n": 170,
+    "pos": 23,
+    "model": [
+     0.818,
+     0.391,
+     0.529
+    ],
+    "hybrid": [
+     0.818,
+     0.391,
+     0.529
+    ],
+    "dictionary": [
+     0.371,
+     1.0,
+     0.541
+    ]
+   },
+   "ar": {
+    "n": 191,
+    "pos": 9,
+    "model": [
+     0.333,
+     0.444,
+     0.381
+    ],
+    "hybrid": [
+     0.364,
+     0.444,
+     0.4
+    ],
+    "dictionary": [
+     0.209,
+     1.0,
+     0.346
+    ]
+   }
+  }
+ ],
+ "en": {
+  "n": 829,
+  "positives": 149,
+  "model": {
+   "P": 0.831,
+   "R": 0.826,
+   "F1": 0.828,
+   "F1_CI95": [
+    0.777,
+    0.872
+   ]
+  },
+  "hybrid": {
+   "P": 0.891,
+   "R": 0.826,
+   "F1": 0.857,
+   "F1_CI95": [
+    0.811,
+    0.898
+   ]
+  },
+  "dictionary": {
+   "P": 0.58,
+   "R": 1.0,
+   "F1": 0.734,
+   "F1_CI95": [
+    0.684,
+    0.777
+   ]
+  },
+  "hybrid_minus_dictionary_F1": {
+   "diff": 0.123,
+   "CI95": [
+    0.071,
+    0.181
+   ],
+   "P_diff_le_0": 0.0
+  }
+ },
+ "ar": {
+  "n": 819,
+  "positives": 110,
+  "model": {
+   "P": 0.758,
+   "R": 0.882,
+   "F1": 0.815,
+   "F1_CI95": [
+    0.757,
+    0.864
+   ]
+  },
+  "hybrid": {
+   "P": 0.789,
+   "R": 0.882,
+   "F1": 0.833,
+   "F1_CI95": [
+    0.777,
+    0.88
+   ]
+  },
+  "dictionary": {
+   "P": 0.553,
+   "R": 1.0,
+   "F1": 0.712,
+   "F1_CI95": [
+    0.651,
+    0.768
+   ]
+  },
+  "hybrid_minus_dictionary_F1": {
+   "diff": 0.121,
+   "CI95": [
+    0.067,
+    0.176
+   ],
+   "P_diff_le_0": 0.0
+  }
+ }
+}
