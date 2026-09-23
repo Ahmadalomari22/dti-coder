@@ -1,0 +1,2116 @@
+sent_id,lang,llm_present,llm_tech,raw
+BOJX|2023-03-26|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|196,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2023-03-26|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|197,en,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```"
+BOJX|2023-03-26|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|228,en,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+JOIB|2025-05-03|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|en|57,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2025-05-03|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|en|66,en,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+JOIB|2025-05-03|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|en|45,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2023-05-04|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|149,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2024-02-13|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|53,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2024-02-13|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|en|54,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2024-03-28|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|14,en,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+BOJX|2024-03-28|DisclosuresDirectorsReport|jsc_DescriptionOfCompanysMainActivitiesWithTheirRespectiveGeographicalLocationsSizeOfCapitalInvestmentAndNumberOfEmployees|0|en|187,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2024-03-28|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|4,en,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+BOJX|2024-03-28|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|10,en,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+BOJX|2024-03-28|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|11,en,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+JOPH|2024-05-06|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|150,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2025-02-12|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|5,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2025-02-12|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|en|57,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ASAS|2025-04-06|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|48,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|38,en,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|119,en,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|126,en,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|172,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|10,en,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|15,en,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+JOPH|2025-04-22|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysContributionToEnvironmentalProtectionAndLocalCommunityService|0|en|46,en,1,AI/ML,"```json
+{""present"": 1, ""technology"": ""AI/ML""}
+```"
+MANE|2021-04-28|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|81,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2022-02-24|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|14,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|NotesListOfNotes|jsc-rep_AdoptionOfNewAndRevisedInternationalFinancialReportingStandards|0|en|3,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2022-04-26|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|149,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|DisclosuresAuditorsReport|jsc_AuditorsOpinionBasisExplanatory|0|en|95,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2023-02-07|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|19,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2023-02-07|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|20,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence mentions ""Artificial Intelligence"" only in the context of a government minister's title and portfolio (Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications). This is not a description of"
+ZEIC|2023-02-07|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|37,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2023-02-07|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|en|49,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SABK|2023-04-16|DisclosuresAuditorsReport|jsc_KeyAuditMattersExplanatory|0|en|6,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfNoncontrollingInterestsExplanatory|0|en|122,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+PHIL|2021-06-10|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|27,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2024-04-30|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|en|18,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|en|4,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2025-04-22|DisclosuresDirectorsReport|jsc_DisclosureOfBenefitsAndRemunerationsOfChairmanMembersOfBoardOfDirectorsAndSeniorExecutiveManagementDuringTheFiscalYearIncludingPaymentsReceivedByAnyOfThemSuchAsFeesSalariesBonusesAndOtherwiseAndTheirTravelAndTransportExpensesWithinKingdomAndAbroad|0|en|55,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfDeferredTaxLiabilities|0|en|41,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2022-04-29|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|10,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfRestrictedCashAndCashEquivalentsExplanatory|0|en|76,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2024-02-26|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|20,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfEarningsPerShareExplanatory|0|en|198,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfDeferredTaxAssets|0|en|169,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2024-02-13|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|5,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|NotesListOfNotes|jsc-rep_AdoptionOfNewAndRevisedInternationalFinancialReportingStandards|0|en|18,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|NotesListOfNotes|jsc-rep_AdoptionOfNewAndRevisedInternationalFinancialReportingStandards|0|en|55,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-04-29|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|19,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|en|42,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2023-05-04|NotesListOfNotes|jsc-rep_DisclosureOfAccruedExpenses|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2024-03-21|NotesListOfNotes|ifrs-full_DisclosureOfIntangibleAssetsExplanatory|0|en|1,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+REDV|2024-03-04|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|55,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|DisclosuresDirectorsReport|jsc_DisclosureOfBenefitsAndRemunerationsOfChairmanMembersOfBoardOfDirectorsAndSeniorExecutiveManagementDuringTheFiscalYearIncludingPaymentsReceivedByAnyOfThemSuchAsFeesSalariesBonusesAndOtherwiseAndTheirTravelAndTransportExpensesWithinKingdomAndAbroad|0|en|118,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|68,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfLeasesExplanatory|0|en|83,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|NotesListOfNotes|ifrs-full_DisclosureOfMarketRiskExplanatory|0|en|4,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfAnalysisOfCompanysFinancialStatusAndOfResultsOfItsActivitiesForFiscalYear|0|en|22,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2025-02-20|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfCurrentAndResigningBoardMembersDuringYearAndDeterminingWhetherMemberIsExecutiveNonExecutiveIndependentOrNonIndependent|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+PHIL|2021-06-07|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|en|11,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2023-03-07|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysRiskExposure|0|en|3,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2023-03-26|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|210,en,1,SAR,"```json
+{""present"": 1, ""technology"": ""SAR""}
+```"
+MALL|2024-02-26|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|3,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfTradeAndOtherNonCurrentPayables|0|en|27,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2024-02-26|DisclosuresAuditorsReport|jsc_KeyAuditMattersExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfAuditorsRemunerationExplanatory|0|en|9,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2025-02-25|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|12,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2024-02-13|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|en|223,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfIncomeTaxProvision|0|en|54,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+REDV|2023-03-28|NotesListOfNotes|jsc-rep_DisclosureOfCurrencyRisk|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfOtherNoncurrentAssetsExplanatory|0|en|186,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-05-16|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|24,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|en|48,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2024-02-28|NotesListOfNotes|jsc-rep_DisclosureOfStatutoryReserves|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfRevenueExplanatory|0|en|11,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfTradeAndOtherCurrentPayables|0|en|74,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|55,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfOtherCurrentAssetsExplanatory|0|en|135,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfBusinessCombinationsExplanatory|0|en|6,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2025-04-22|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|45,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysContributionToEnvironmentalProtectionAndLocalCommunityService|0|en|64,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2025-04-22|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfCommitteesEmanatingFromBoardOfDirectors|0|en|111,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfInventoriesExplanatory|0|en|129,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|en|44,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|en|172,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfCostOfSalesExplanatory|0|en|18,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|DisclosuresDirectorsReport|jsc_DisclosureOfStatementThatIndicatesIssuingCompanysContractsProjectsAndEngagementsConcludedWithItsSubsidiariesSisterCompaniesOrAffiliatesAsWellAsThoseWithChairmanOfBoardOfDirectorsMembersOfBoardOfDirectorsChiefExecutiveOfficerOrAnyEmployeeOfCompanyOrRelativesThereof|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|75,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2025-02-25|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|25,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|NotesListOfNotes|jsc-rep_DisclosureOfNonCurrentBorrowings|0|en|1,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfProfitsSettlementWithTheGovernment|0|en|87,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2023-04-30|NotesListOfNotes|jsc-rep_DisclosureOfAlQardAlHasan|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2025-04-22|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|en|23,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfRevenueExplanatory|0|en|22,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2023-03-15|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|33,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfPrepaymentsAndOtherAssetsExplanatory|0|en|81,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2023-04-30|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|en|13,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfFairValueReserve|0|en|39,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|NotesListOfNotes|jsc-rep_DisclosureOfVoluntaryReserves|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|NotesListOfNotes|ifrs-full_DisclosureOfContingentLiabilitiesExplanatory|0|en|9,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2022-04-29|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|296,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-04-29|NotesListOfNotes|jsc-rep_AdoptionOfNewAndRevisedInternationalFinancialReportingStandards|0|en|35,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+REDV|2022-03-26|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|29,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2023-02-07|NotesListOfNotes|ifrs-full_DisclosureOfPropertyPlantAndEquipmentExplanatory|0|en|4,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfLawSuits|0|en|212,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2025-04-22|DisclosuresAuditorsReport|jsc_EmphasisOfMatterExplanatory|0|en|13,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-05-16|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SABK|2024-03-19|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|54,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|NotesListOfNotes|ifrs-full_DisclosureOfMarketRiskExplanatory|0|en|31,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfObjectivesPoliciesAndProcessesForManagingCapitalExplanatory|0|en|34,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2022-04-29|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|30,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|en|48,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2025-04-22|NotesListOfNotes|ifrs-full_DisclosureOfFairValueOfFinancialInstrumentsExplanatory|0|en|4,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2021-04-28|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|186,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfIncomeTaxProvision|0|en|99,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MHFZ|2025-04-23|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|6,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|en|52,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfNonCurrentProvisions|0|en|193,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2024-02-13|NotesListOfNotes|ifrs-full_DisclosureOfReservesAndOtherEquityInterestExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2023-02-07|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|en|3,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2024-03-31|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|261,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-05-16|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|en|34,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2021-05-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|22,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SABK|2024-03-19|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|en|5,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|66,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfPreparationOfFinancialStatementsExplanatory|0|en|120,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2023-05-04|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|en|25,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+REDV|2024-03-04|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|64,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SABK|2021-05-18|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|8,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2022-03-20|CorporateGovernanceReport|jsc-rep_DisclosureOfNameOfChairmanAndMembersOfAuditCommitteeAndADescriptionOfTheirQualificationsAndExperienceInFinancialOrAccountingMatters|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfNoncontrollingInterestsExplanatory|0|en|30,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfAccruedExpensesAndOtherLiabilitiesExplanatory|0|en|227,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2021-05-30|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfRepresentativesOfLegalDirectorsAndDetermineWhetherRepresentativeIsExecutiveNonExecutiveIndependentOrNonIndependent|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2022-04-12|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|20,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2025-04-20|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2022-04-12|NotesListOfNotes|jsc-rep_DisclosureOfCapitalManagement|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2023-03-26|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|214,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2023-03-28|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfStrategicInventory|0|en|68,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2025-02-25|DisclosuresAuditorsReport|jsc_KeyAuditMattersExplanatory|0|en|9,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|en|13,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfGeneralAndAdministrativeExpenseExplanatory|0|en|164,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfOtherExpenses|0|en|161,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2023-05-04|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|en|4,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|CorporateGovernanceReport|jsc-rep_DisclosureOfExecutivePositionsInCompanyAndNamesOfThePersonsWhoOccupyThem|0|en|6,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2024-03-21|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|15,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2021-03-03|Declarations|jsc-rep_DeclarationAffirmingCorrectnessAccuracyAndCompletenessOfInformationAndDataStatedInReportSignedByChairmanOfBoardOfDirectorsCompanysChiefExecutiveOfficerAndChiefFinancialOfficer|0|en|1,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|118,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2025-04-22|NotesListOfNotes|ifrs-full_DisclosureOfCommitmentsAndContingentLiabilitiesExplanatory|0|en|26,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2025-04-20|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|41,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|313,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2022-04-28|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|en|24,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfCashOnHandAndAtBanks|0|en|1,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|DisclosuresAuditorsReport|jsc_AuditorsOpinionBasisExplanatory|0|en|3,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2023-04-30|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|26,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|en|25,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SABK|2025-04-24|NotesListOfNotes|jsc-rep_DisclosureOfDeferredTaxAssets|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2023-02-07|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|30,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2025-04-22|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|56,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|NotesListOfNotes|jsc-rep_DisclosureOfLawSuits|0|en|10,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2023-03-07|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|10,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2023-03-31|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|139,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2025-05-03|NotesListOfNotes|ifrs-full_DisclosureOfMarketRiskExplanatory|0|en|30,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2023-03-31|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|313,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfLawSuits|0|en|176,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfNoncontrollingInterestsExplanatory|0|en|144,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfIntangibleAssetsExplanatory|0|en|218,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2024-02-13|DisclosuresAuditorsReport|jsc_ResponsibilitiesOfManagementAndThoseChargedWithGovernanceForFinancialStatementsExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|DisclosuresDirectorsReport|jsc_CompanysCompetitivePositionWithinItsSectorAndMainMarketSegmentsAsWellAsItsShareOfLocalMarketAndInternationalMarketIfPossible|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2022-04-29|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|170,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2023-05-04|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|26,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfRestrictedCashAndCashEquivalentsExplanatory|0|en|130,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|en|16,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2025-02-20|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|32,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-05-16|DisclosuresDirectorsReport|jsc_DisclosureOfAnalysisOfCompanysFinancialStatusAndOfResultsOfItsActivitiesForFiscalYear|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2024-02-28|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|70,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfOtherNoncurrentAssetsExplanatory|0|en|230,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfStatutoryReserves|0|en|162,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2023-03-07|Declarations|jsc-rep_DeclarationByBoardOfDirectorsAffirmingItsResponsibilityForPreparationOfFinancialStatementsAndForProvisionOfEffectiveSystemOfControlsWithinCompany|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2022-03-29|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2025-02-12|NotesListOfNotes|ifrs-full_DisclosureOfIncomeTaxExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+REDV|2024-03-12|NotesListOfNotes|ifrs-full_DisclosureOfInvestmentPropertyExplanatory|0|en|1,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2023-03-31|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|31,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2022-04-29|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|27,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2023-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfCommitteesEmanatingFromBoardOfDirectors|0|en|1,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfStrategicInventory|0|en|118,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfStatutoryReserves|0|en|82,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2025-04-20|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|62,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|24,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2023-03-26|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|104,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2024-03-31|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|73,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2021-03-03|NotesListOfNotes|ifrs-full_DisclosureOfPropertyPlantAndEquipmentExplanatory|0|en|5,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|141,en,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```"
+JCBK|2024-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|143,en,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```"
+JCBK|2024-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|160,en,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+JEIH|2022-03-14|NotesListOfNotes|ifrs-full_DisclosureOfEntitysReportableSegmentsExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2022-04-24|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence mentions ""Cloud Services"" as part of a company name (Lightning Gate for Cloud Services), which is a proper company name. According to the rules, a technology word inside a proper company name is not"
+JOEP|2022-04-24|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|en|1,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes the company as providing cloud computing services to customers (electricity companies and other sectors), not adopting cloud computing in its own operations. According to the rules, providing a technology as a commercial service to"
+JOEP|2022-04-24|DisclosuresDirectorsReport|jsc_DisclosureOfAmountOfAuditingFeesForCompanyAndItsSubsidiariesAndAnyOtherFeesReceivedOrReceivableByAuditor|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2022-04-24|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|6,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2022-04-24|NotesIncomeTax|jsc-rep_DisclosureOfTaxStatus|0|en|3,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2022-04-24|NotesListOfNotes|ifrs-full_DisclosureOfIntangibleAssetsExplanatory|0|en|1,en,1,ERP,"```json
+{""present"": 1, ""technology"": ""ERP""}
+```"
+JOEP|2022-04-24|NotesListOfNotes|ifrs-full_DisclosureOfSignificantInvestmentsInSubsidiariesExplanatory|0|en|0,en,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```"
+JCBK|2025-04-29|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|221,en,1,SAR,"```json
+{""present"": 1, ""technology"": ""SAR""}
+```"
+JCBK|2025-04-29|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|12,en,1,AI/ML,"```json
+{""present"": 1, ""technology"": ""AI/ML""}
+```"
+JEIH|2023-03-21|NotesListOfNotes|ifrs-full_DisclosureOfEntitysReportableSegmentsExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|9,en,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+JOEP|2023-04-30|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes a subsidiary company (Lightning GATE FOR CLOUD SERVICES) that provides cloud computing services to customers (electricity companies and other sectors). This is a commercial service offering, not adoption of cloud computing"
+JOEP|2023-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|6,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|7,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|NotesIncomeTax|jsc-rep_DisclosureOfTaxStatus|0|en|5,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|8,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfIntangibleAssetsExplanatory|0|en|1,en,1,ERP,"```json
+{""present"": 1, ""technology"": ""ERP""}
+```"
+JOEP|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSignificantInvestmentsInSubsidiariesExplanatory|0|en|0,en,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```"
+JOIT|2021-05-05|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|51,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2022-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|99,en,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```"
+JEIH|2024-04-04|NotesListOfNotes|ifrs-full_DisclosureOfEntitysReportableSegmentsExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JEIH|2024-04-04|NotesListOfNotes|ifrs-full_DisclosureOfNotesAndOtherExplanatoryInformationExplanatory|0|en|106,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|3,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|20,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|24,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|9,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfPreparationOfFinancialStatementsExplanatory|0|en|9,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfIncomeTaxExplanatory|0|en|5,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfIntangibleAssetsExplanatory|0|en|1,en,1,ERP,"```json
+{""present"": 1, ""technology"": ""ERP""}
+```"
+JOEP|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfRelatedPartyExplanatory|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2021-04-25|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|en|3,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2021-04-25|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|en|4,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes the company as providing cloud computing services to customers (electricity companies and other sectors), not adopting cloud computing in its own operations. According to the rules, providing a technology as a commercial service to"
+JOEP|2021-04-25|DisclosuresDirectorsReport|jsc_DisclosureOfAmountOfAuditingFeesForCompanyAndItsSubsidiariesAndAnyOtherFeesReceivedOrReceivableByAuditor|0|en|0,en,1,ERP,"```json
+{""present"": 1, ""technology"": ""ERP""}
+```"
+JOEP|2021-04-25|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|en|5,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2021-04-25|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|8,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2021-04-25|NotesListOfNotes|ifrs-full_DisclosureOfIntangibleAssetsExplanatory|0|en|1,en,1,ERP,"```json
+{""present"": 1, ""technology"": ""ERP""}
+```"
+JOEP|2025-04-30|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence mentions ""cloud services"" but only as part of a company name (""lighting gate for cloud services""), not as a technology being adopted or implemented by the reporting company in its own operations. According to the"
+JOEP|2025-04-30|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|en|1,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes the company as providing cloud computing services to customers (electricity companies and other sectors), not adopting cloud computing in its own operations. According to the rules, providing a technology as a commercial service to"
+JOEP|2025-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfAmountOfAuditingFeesForCompanyAndItsSubsidiariesAndAnyOtherFeesReceivedOrReceivableByAuditor|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence mentions ""cloud computing"" but only as part of a proper company name (""lightening gate for cloud computing""), not as a technology adopted or used by the reporting company in its own operations. According to"
+JOEP|2025-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|4,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|12,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|53,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|60,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesIncomeTax|jsc-rep_DisclosureOfTaxStatus|0|en|5,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|8,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|9,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfIntangibleAssetsExplanatory|0|en|1,en,1,ERP,"```json
+{""present"": 1, ""technology"": ""ERP""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfRelatedPartyExplanatory|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSignificantInvestmentsInSubsidiariesExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence mentions ""Cloud Services"" as part of a company name (Lightning Gate for Cloud Services), which according to the rules is not a mention of technology adoption. The company provides cloud services as a commercial service"
+JCBK|2022-03-31|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|261,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|en|11,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JEIH|2023-03-21|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|22,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ALFA|2024-04-17|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|18,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2022-04-28|DisclosuresAuditorsReport|jsc_ResponsibilitiesOfManagementAndThoseChargedWithGovernanceForFinancialStatementsExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2023-03-30|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|en|26,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JEIH|2024-04-04|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|10,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2021-04-25|NotesListOfNotes|ifrs-full_DisclosureOfEffectOfChangesInForeignExchangeRatesExplanatory|0|en|7,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2022-04-26|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|7,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2022-04-28|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|20,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|158,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|336,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2025-04-16|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|83,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ALFA|2025-05-05|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|30,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2024-04-08|DisclosuresAuditorsReport|jsc_AuditorsOpinionBasisExplanatory|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JEIH|2023-03-21|NotesListOfNotes|ifrs-full_DisclosureOfLiquidityRiskExplanatory|0|en|1,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JODA|2022-03-30|DisclosuresAuditorsReport|jsc_AuditorsOpinionBasisExplanatory|0|en|2,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|84,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|109,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2021-06-10|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|177,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIN|2021-04-05|DisclosuresAuditorsReport|jsc_KeyAuditMattersExplanatory|0|en|14,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|15,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2025-04-16|DisclosuresAuditorsReport|jsc_ReportOnOtherLegalAndRegulatoryRequirementsExplanatory|0|en|9,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2025-04-30|DisclosuresDirectorsReport|jsc_CompanysCompetitivePositionWithinItsSectorAndMainMarketSegmentsAsWellAsItsShareOfLocalMarketAndInternationalMarketIfPossible|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2023-03-30|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|358,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2023-03-22|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|11,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2021-06-10|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|127,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2022-03-31|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|215,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2022-03-31|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|en|76,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2022-03-31|NotesListOfNotes|ifrs-full_DisclosureOfOtherAssetsExplanatory|0|en|4,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|13,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|387,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2022-03-31|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|94,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|146,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|CorporateGovernanceReport|jsc-rep_DisclosureOfNumberOfMeetingsOfCommitteesDuringYearWithStatementOfMembersPresent|0|en|13,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2021-03-31|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|110,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfNameOfChairmanAndMembersOfNominationAndRemunerationCommitteeCorporateGovernanceCommitteeAndRiskManagementCommittee|0|en|1,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|en|7,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ALFA|2025-05-05|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|en|37,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2023-03-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|64,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|30,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|84,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIN|2021-04-05|NotesListOfNotes|jsc-rep_DisclosureOfOtherProvisions|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ARAS|2021-04-30|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|27,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2023-04-27|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|en|18,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|222,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2021-06-10|NotesListOfNotes|ifrs-full_DisclosureOfEntitysReportableSegmentsExplanatory|0|en|0,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2025-04-16|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|en|26,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2022-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|119,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2025-04-30|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|42,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|553,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2023-03-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|en|53,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ARAS|2021-04-30|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|en|59,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JEIH|2024-04-04|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|en|19,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ALFA|2024-04-17|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|17,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ALFA|2025-05-05|DisclosuresDirectorsReport|jsc_DescriptionOfCompanysMainActivitiesWithTheirRespectiveGeographicalLocationsSizeOfCapitalInvestmentAndNumberOfEmployees|0|en|5,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|en|32,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIT|2021-05-05|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|10,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2023-03-30|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|en|12,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2024-04-08|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|en|9,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2024-04-24|CorporateGovernanceReport|jsc-rep_DisclosureOfNameOfChairmanAndMembersOfAuditCommitteeAndADescriptionOfTheirQualificationsAndExperienceInFinancialOrAccountingMatters|0|en|8,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|40,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|en|276,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2021-06-10|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|en|186,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2023-04-27|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|5,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2023-03-22|DisclosuresAuditorsReport|jsc_ReportOnOtherLegalAndRegulatoryRequirementsExplanatory|0|en|15,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ALFA|2025-05-05|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|16,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2023-03-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|en|49,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|en|48,en,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2025-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfExecutivePositionsInCompanyAndNamesOfThePersonsWhoOccupyThem|0|ar|14,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2025-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|58,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+CABK|2025-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|81,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+CABK|2025-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysContributionToEnvironmentalProtectionAndLocalCommunityService|0|ar|3,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence mentions ""الذكاء الاصطناعي"" (artificial intelligence) but only as a topic of lectures at an event that the bank sponsored. This is not a description of"
+CABK|2025-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|8,ar,1,AI/ML,"```json
+{""present"": 1, ""technology"": ""AI/ML""}
+```"
+CABK|2025-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|119,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|95,ar,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```
+
+The sentence describes the company implementing cloud computing (الحوسبة السحابية) for email backup systems as part of their operations."
+JCBK|2024-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|97,ar,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```"
+JOEP|2022-04-24|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|3,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes the installation and deployment of smart meters (عدادات ذكية) as part of the company's infrastructure and operations. However, smart meters are hardware devices for utility measurement and billing"
+JOEP|2022-04-24|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes a subsidiary company (Bawwaba Al-Barq) that provides cloud computing services to other companies as a commercial service. This is not an adoption of cloud computing by the reporting"
+JOEP|2022-04-24|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2022-04-24|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|3,ar,1,Smart accounting / robotic process automation,"```json
+{""present"": 1, ""technology"": ""Smart accounting / robotic process automation""}
+```
+
+The sentence mentions ""استبدال العدادات الذكية"" (replacement of smart meters), which relates to smart/intelligent systems. However, this appears to"
+JOEP|2022-04-24|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|8,ar,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```
+
+The sentence describes the company's implementation of smart meters (عدادات ذكية) and establishing a control center with systems and devices for managing them. This involves both smart accounting/robotic process"
+JOEP|2022-04-24|DisclosuresDirectorsReport|jsc_DisclosureOfIssuingCompanysOrganizationalChartNumberOfItsEmployeesAndTheirClassesOfQualificationAndItsPersonnelQualifyingAndTrainingPrograms|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2022-04-24|NotesListOfNotes|jsc-rep_DisclosureOfOtherRevenue|0|ar|10,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence discusses revenue recognition for renewable energy systems and scrap transfer, but does not mention the reporting company adopting, implementing, or planning to use any of the six specified technologies in its own operations."
+JOIB|2025-05-03|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|27,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2025-05-03|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|62,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+JOPH|2023-05-04|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|15,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|33,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```
+
+The sentence describes the company developing relationships between macroeconomic indicators and default rates based on analysis of historical data over five years, which constitutes the use of big data/advanced analytics in their operations."
+UBSI|2022-04-29|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|15,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```
+
+The sentence describes the company's practice of analyzing customer data to understand their needs and design products/services accordingly. This indicates the adoption of data analysis capabilities, which falls under Big Data/advanced analytics in their"
+ZEIC|2024-02-13|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|56,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses academic programs and student enrollment numbers. While it mentions ""artificial intelligence and robotics engineering"" (هندسة الذكاء الاصطناعي والروبو"
+BOJX|2024-03-28|NotesListOfNotes|jsc-rep_AdoptionOfNewAndRevisedInternationalFinancialReportingStandards|0|ar|36,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|172,ar,1,SAR,"```json
+{""present"": 1, ""technology"": ""SAR""}
+```"
+JOEP|2023-04-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|2,ar,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+JOEP|2023-04-30|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes a subsidiary company (Bawwaba Al-Barq) that provides cloud computing services to other companies as a commercial service. This is not an adoption of cloud computing by the reporting"
+JOEP|2023-04-30|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes the company's plan to replace traditional meters with smart meters (عدادات ذكية). However, ""smart meters"" are devices deployed in the company's infrastructure/operations for customers"
+JOEP|2023-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|8,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+JOEP|2023-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|9,ar,1,ERP,"```json
+{""present"": 1, ""technology"": ""ERP""}
+```"
+JOEP|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfRelatedPartyExplanatory|0|ar|3,ar,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+JOEP|2023-04-30|NotesListOfNotes|jsc-rep_DisclosureOfOtherRevenue|0|ar|10,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence discusses revenue recognition for renewable energy systems and scrap transfer, but does not mention the reporting company adopting, implementing, or planning to use any of the six specified technologies in its own operations."
+JOIB|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|62,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+JOPH|2024-05-06|CorporateGovernanceReport|jsc-rep_DisclosureOfExecutivePositionsInCompanyAndNamesOfThePersonsWhoOccupyThem|0|ar|62,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2024-02-28|NotesListOfNotes|jsc-rep_DisclosureOfStandardsIssuedButNotYetEffective|0|ar|14,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2022-04-27|DisclosuresDirectorsReport|jsc_DisclosureOfIssuingCompanysOrganizationalChartNumberOfItsEmployeesAndTheirClassesOfQualificationAndItsPersonnelQualifyingAndTrainingPrograms|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2022-04-27|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|33,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```
+
+The sentence describes the company developing relationships between macroeconomic indicators and default rates based on analysis of historical data over five years, which constitutes the use of big data/advanced analytics in their operations."
+UBSI|2023-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|18,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```
+
+The sentence describes the company's practice of analyzing customer data to understand their needs and design products/services accordingly. This indicates the adoption of data analysis capabilities, which falls under Big Data/advanced analytics in their"
+ZEIC|2025-02-12|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|27,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence lists academic programs and enrollment statistics. While it mentions ""artificial intelligence and robotics engineering"" (هندسة الذكاء الاصطناعي والروبوت"
+BOJX|2021-04-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|41,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|103,ar,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```
+
+The sentence describes the reporting company's adoption of multiple technologies:
+1. **ERP** - developing an electronic content management system (نظام إدارة المحتوى الإل"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|111,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|5,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|8,ar,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+JCBK|2022-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|76,ar,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```"
+JOEP|2024-04-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|1,ar,1,none,"```json
+{""present"": 1, ""technology"": ""none""}
+```
+
+The sentence mentions ""العدادات الذكية"" (smart meters), but this refers to smart meters as products/services the company provides to customers, not as a technology the company is adopting"
+JOEP|2024-04-30|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes a subsidiary company (Bawwaba Al-Barq) that provides cloud computing services to other companies as a commercial service. According to the rules, ""providing a technology as a"
+JOEP|2024-04-30|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes a telecommunications infrastructure company that provides fiber optic networks and high-speed internet services. While it mentions ""smart meters"" (العدادات الذكية), this refers to smart meters"
+JOEP|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfEntitysReportableSegmentsExplanatory|0|ar|3,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfRelatedPartyExplanatory|0|ar|2,ar,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+JOEP|2024-04-30|NotesListOfNotes|jsc-rep_DisclosureOfOtherRevenue|0|ar|14,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|59,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+JOPH|2025-04-22|DisclosuresDirectorsReport|jsc_DescriptionOfCompanysMainActivitiesWithTheirRespectiveGeographicalLocationsSizeOfCapitalInvestmentAndNumberOfEmployees|0|ar|45,ar,1,AI/ML,"```json
+{""present"": 1, ""technology"": ""AI/ML""}
+```"
+JOPH|2025-04-22|DisclosuresDirectorsReport|jsc_DisclosureOfBenefitsAndRemunerationsOfChairmanMembersOfBoardOfDirectorsAndSeniorExecutiveManagementDuringTheFiscalYearIncludingPaymentsReceivedByAnyOfThemSuchAsFeesSalariesBonusesAndOtherwiseAndTheirTravelAndTransportExpensesWithinKingdomAndAbroad|0|ar|68,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2025-04-22|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|31,ar,1,AI/ML,"```json
+{""present"": 1, ""technology"": ""AI/ML""}
+```"
+JOWM|2025-02-20|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|ar|6,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2024-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|19,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+UBSI|2024-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|121,ar,1,AI/ML,"```json
+{""present"": 1, ""technology"": ""AI/ML""}
+```"
+UBSI|2024-03-31|NotesListOfNotes|jsc-rep_AdoptionOfNewAndRevisedInternationalFinancialReportingStandards|0|ar|36,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2022-02-24|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|15,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes participation in an artificial intelligence conference for defense technology, but does not indicate that the reporting company is using, adopting, implementing, developing, or planning to use AI/ML in its own operations"
+ARAS|2021-04-30|NotesListOfNotes|jsc-rep_DisclosureOfInsuranceRiskClaimsDevelopmentInsuranceRiskSensitivityAndConcentrationOfRisk|0|ar|12,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes the company's process of monitoring reinsurer classifications (both facultative and treaty reinsurance) on a monthly basis to ensure ratings don't fall below first or second grade. This is a"
+CABK|2024-04-08|CorporateGovernanceReport|jsc-rep_DisclosureOfExecutivePositionsInCompanyAndNamesOfThePersonsWhoOccupyThem|0|ar|14,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This text is a board member biography/CV section listing executive positions and qualifications. According to the rules, ""a job title, a CV line, a board member biography, or generic XBRL"
+CABK|2024-04-08|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|9,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+CABK|2024-04-08|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|10,ar,1,AI/ML,"```json
+{""present"": 1, ""technology"": ""AI/ML""}
+```"
+JOEP|2021-04-25|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|4,ar,1,none,"```json
+{""present"": 1, ""technology"": ""none""}
+```"
+JOEP|2021-04-25|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|ar|1,ar,1,Cloud,"```json
+{""present"": 1, ""technology"": ""Cloud""}
+```"
+JOEP|2021-04-25|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2021-04-25|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|3,ar,1,Smart Accounting/RPA,"```json
+{""present"": 1, ""technology"": ""Smart Accounting/RPA""}
+```
+
+The sentence mentions ""العدادات الذكية"" (smart meters), which falls under smart technology implementation. The company is planning to implement smart meters as part of capital projects"
+JOEP|2021-04-25|DisclosuresDirectorsReport|jsc_DisclosureOfIssuingCompanysOrganizationalChartNumberOfItsEmployeesAndTheirClassesOfQualificationAndItsPersonnelQualifyingAndTrainingPrograms|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes a subsidiary company (Bawwaba Al-Barq) that provides cloud computing services to other companies as a commercial service. This is providing technology as a service to customers, not"
+JOEP|2025-04-30|DisclosuresDirectorsReport|jsc_DescriptionOfSubsidiaryCompaniesNatureOfTheirBusinessAndTheirAreasOfActivity|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfEntitysReportableSegmentsExplanatory|0|ar|3,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfRelatedPartyExplanatory|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|jsc-rep_DisclosureOfOtherRevenue|0|ar|14,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|61,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```"
+ZEIC|2023-02-07|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|12,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes students from the Faculty of Information Technology at Zarqa University winning awards in artificial intelligence. This is about students' achievements, not about the reporting company (a Jordanian company) adopting"
+ZEIC|2023-02-07|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|49,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+HIPR|2025-04-21|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|ar|9,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2025-04-16|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|68,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfDueToBanks|0|ar|121,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses the depreciation/amortization of intangible assets over a 10-year period starting from May 2013. It contains no mention of any of the six specified technologies (AI"
+UBSI|2023-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|11,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfFinancialAssetsAtFairValueThroughProfitOrLoss|0|ar|105,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+REDV|2025-03-10|DisclosuresAuditorsReport|jsc_ResponsibilitiesOfManagementAndThoseChargedWithGovernanceForFinancialStatementsExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2021-03-31|DisclosuresAuditorsReport|jsc_EmphasisOfMatterExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SABK|2021-05-18|DisclosuresDirectorsReport|jsc_DisclosureOfAnyGovernmentProtectionOrAnyConcessionGrantedToCompanyOrToAnyOfItsProductsPursuantToLawsRegulationsOrOtherwiseWithSpecificationOfEffectivePeriodThereofAsWellAsDescriptionOfAnyPatentsOrLicensingRightsObtainedByCompany|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2024-04-08|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|43,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MHFZ|2022-03-28|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|5,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+REDV|2022-03-26|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2025-04-16|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|89,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ASAS|2023-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfNameOfChairmanAndMembersOfNominationAndRemunerationCommitteeCorporateGovernanceCommitteeAndRiskManagementCommittee|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfStrategicInventory|0|ar|194,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2025-04-16|NotesListOfNotes|jsc-rep_DisclosureOfFinancialAssetsAtFairValueThroughProfitOrLoss|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|341,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence describes a job title and position held by someone at a bank during a specific time period (a CV line or biography). It does not describe the reporting company adopting or implementing any of the specified technologies"
+JOIB|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfLiquidityRiskExplanatory|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2024-03-28|DisclosuresDirectorsReport|jsc_DescriptionOfCompanysMainActivitiesWithTheirRespectiveGeographicalLocationsSizeOfCapitalInvestmentAndNumberOfEmployees|0|ar|67,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence mentions ""digitization of products and operational processes"" (رقمنة المنتجات والعمليات التشغيلية) in general terms, but this is"
+BOJX|2022-03-31|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|299,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JEIH|2023-03-21|DisclosuresDirectorsReport|jsc_DisclosureOfStatementThatIndicatesNumberOfSecuritiesIssuedByCompanyWhichAreOwnedByAnyMemberOfItsBoardOfDirectorsAnyMemberOfItsSeniorExecutiveManagementOrAnyOfTheirRelativesAListOfCompaniesControlledByAnyOfSuchProvidedAllOfTheAboveIsBenchmarkedAgainstThePrecedingYear|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2022-03-29|NotesListOfNotes|ifrs-full_DisclosureOfMarketRiskExplanatory|0|ar|6,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2024-04-21|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfCommitteesEmanatingFromBoardOfDirectors|0|ar|8,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|CorporateGovernanceReport|jsc-rep_DisclosureOfNameOfCorporateGovernanceOfficer|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2023-03-31|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|12,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome|0|ar|176,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence discusses the International Financial Reporting Standard (IFRS) 17 and its accounting model for insurance contracts. It does not mention the reporting company adopting, implementing, or using any of the"
+JOIN|2021-04-05|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|26,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|80,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses credit study requirements and financial statement documentation for customers. It does not mention any of the six technologies (AI/ML, Big Data, Cloud, ERP, SAR, or XB"
+ZEIC|2022-02-24|NotesListOfNotes|jsc-rep_DisclosureOfStatutoryReserves|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfCostOfSalesExplanatory|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|31,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2023-05-04|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses audit assurance and the nature of auditing standards according to International Auditing Standards. It does not mention any of the six technologies (AI/ML, Big Data, Cloud Computing, E"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfAuditorsRemunerationExplanatory|0|ar|82,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2021-04-25|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|111,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|55,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2025-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2022-04-29|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|55,ar,1,none,"```json
+{""present"": 1, ""technology"": ""none""}
+```
+
+The sentence discusses the company's efforts in risk management, compliance, governance, and cybersecurity using ""latest technologies"" (أحدث التقنيات), but it does not specifically mention any"
+JOIR|2022-03-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysContributionToEnvironmentalProtectionAndLocalCommunityService|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|ar|110,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses management's annual review of residual values and useful lives of assets, and adjustments to future depreciation expense. It is a standard accounting policy statement and does not mention any of the six specified"
+BOJX|2023-03-26|NotesListOfNotes|ifrs-full_DisclosureOfRelatedPartyExplanatory|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfAdvancePaymentsForInvestment|0|ar|151,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2022-02-24|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|60,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2022-04-26|NotesListOfNotes|jsc-rep_DisclosureOfProjectsInProgress|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2023-03-26|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|90,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence is a CV line describing a job position held at Metropolitan Life. According to the rules, a job title or CV line is not considered a mention of technology adoption by the reporting company."
+ALFA|2023-04-17|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|39,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfFinancialAssetsAtFairValueThroughProfitOrLoss|0|ar|4,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2023-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfCurrentAndResigningBoardMembersDuringYearAndDeterminingWhetherMemberIsExecutiveNonExecutiveIndependentOrNonIndependent|0|ar|7,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfInvestmentPropertyExplanatory|0|ar|77,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|63,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfInvestmentsInSubsidiariesJointVenturesAndAssociates|0|ar|11,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfAuditorsRemunerationExplanatory|0|ar|44,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses accounting treatment for right-of-use assets under lease accounting standards (IFRS 16). It describes recognition, depreciation, and impairment accounting policies - standard accounting practices - not"
+JOWM|2022-03-29|NotesListOfNotes|jsc-rep_AdoptionOfNewAndRevisedInternationalFinancialReportingStandards|0|ar|44,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ARAS|2021-04-30|DisclosuresAuditorsReport|jsc_KeyAuditMattersExplanatory|0|ar|27,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses audit risk related to fraud detection and internal control systems in general terms. It does not describe the reporting company adopting, implementing, or planning to use any of the six specified technologies in its operations"
+JOPH|2024-05-06|DisclosuresDirectorsReport|jsc_DisclosureOfBenefitsAndRemunerationsOfChairmanMembersOfBoardOfDirectorsAndSeniorExecutiveManagementDuringTheFiscalYearIncludingPaymentsReceivedByAnyOfThemSuchAsFeesSalariesBonusesAndOtherwiseAndTheirTravelAndTransportExpensesWithinKingdomAndAbroad|0|ar|60,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIR|2021-04-30|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2024-03-31|NotesListOfNotes|ifrs-full_DisclosureOfLiquidityRiskExplanatory|0|ar|3,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2025-05-03|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|ar|52,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2021-04-28|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|50,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2022-04-12|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfEffectOfChangesInForeignExchangeRatesExplanatory|0|ar|7,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|NotesListOfNotes|ifrs-full_DisclosureOfObjectivesPoliciesAndProcessesForManagingCapitalExplanatory|0|ar|7,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfVoluntaryReserves|0|ar|211,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ASAS|2025-04-06|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|71,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ALFA|2024-04-17|Declarations|jsc-rep_DisclosureOfOtherDeclarations|0|ar|3,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|150,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|298,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ARAS|2021-04-30|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|ar|32,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|NotesListOfNotes|jsc-rep_DisclosureOfFairValueHierarchy|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2025-05-03|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|41,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2022-02-24|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|25,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2022-04-12|CorporateGovernanceReport|jsc-rep_DisclosureOfAllMembershipsOfBoardsOfDirectorsHeldByAMemberOfBoardOfDirectorsInPublicShareholdingCompaniesIfAny|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence is a board member biography stating that Mr. Basem Fouad Faraj holds the position of board member at Delta Insurance Company. It does not describe the company's adoption or use of"
+ALFA|2024-04-17|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|12,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfPropertyPlantAndEquipmentExplanatory|0|ar|73,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence describes accounting treatment for payables and accrued liabilities - it is standard accounting policy disclosure and does not mention any of the six specified technologies."
+JCBK|2024-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2023-03-26|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|ar|10,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SABK|2025-04-24|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|18,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|ar|11,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfRelatedPartyExplanatory|0|ar|225,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2021-06-10|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|ar|486,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2022-04-26|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfCommitteesEmanatingFromBoardOfDirectors|0|ar|16,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_CompanysCompetitivePositionWithinItsSectorAndMainMarketSegmentsAsWellAsItsShareOfLocalMarketAndInternationalMarketIfPossible|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2022-04-24|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|ar|22,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2023-03-31|NotesListOfNotes|ifrs-full_DisclosureOfSignificantInvestmentsInAssociatesExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2024-03-31|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|236,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2023-05-04|CorporateGovernanceReport|jsc-rep_DisclosureOfNameOfChairmanAndMembersOfNominationAndRemunerationCommitteeCorporateGovernanceCommitteeAndRiskManagementCommittee|0|ar|18,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2023-03-26|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|5,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2022-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfImportantProspectiveDevelopmentsIncludingAnyNewExpansionsAndProjectsCompanysProposedPlanForAtLeastOneUpcomingYearAndBoardOfDirectorsForecastsForOutcomesOfCompanyActivities|0|ar|13,ar,1,multiple,"```json
+{""present"": 1, ""technology"": ""multiple""}
+```"
+ASAS|2023-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|ar|22,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|CorporateGovernanceReport|jsc-rep_DisclosureOfNameOfChairmanAndMembersOfAuditCommitteeAndADescriptionOfTheirQualificationsAndExperienceInFinancialOrAccountingMatters|0|ar|11,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence is a CV line describing a job position held by someone at the National Arab Bank in Saudi Arabia from February 1983 to June 1986. It is a biographical entry and does not describe"
+UBSI|2024-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|143,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses a loan program that rewards customers who completed sustainability projects with EU-funded cash rebates. It does not mention the reporting company adopting, implementing, or using any of the six specified technologies in"
+UMIC|2022-04-12|DisclosuresDirectorsReport|jsc_DisclosureOfStatementThatIndicatesIssuingCompanysContractsProjectsAndEngagementsConcludedWithItsSubsidiariesSisterCompaniesOrAffiliatesAsWellAsThoseWithChairmanOfBoardOfDirectorsMembersOfBoardOfDirectorsChiefExecutiveOfficerOrAnyEmployeeOfCompanyOrRelativesThereof|0|ar|3,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|DisclosuresAuditorsReport|jsc_AuditorsOpinionBasisExplanatory|0|ar|208,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2024-03-28|NotesListOfNotes|jsc-rep_DisclosureOfVoluntaryReserves|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ASAS|2023-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|42,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ATTA|2025-04-16|DisclosuresAuditorsReport|jsc_OtherMattersExplanatory|0|ar|7,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|5,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JEIH|2022-03-14|DisclosuresDirectorsReport|jsc_DisclosureOfAmountOfAuditingFeesForCompanyAndItsSubsidiariesAndAnyOtherFeesReceivedOrReceivableByAuditor|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|57,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|NotesListOfNotes|ifrs-full_DisclosureOfContingentLiabilitiesExplanatory|0|ar|10,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+REDV|2021-04-01|DisclosuresAuditorsReport|jsc_OtherMattersExplanatory|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|ar|88,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ALFA|2025-05-05|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|45,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2021-03-31|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|61,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ASAS|2025-04-06|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|39,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2021-06-10|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|ar|48,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfAdvancePaymentsForInvestment|0|ar|94,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2025-05-03|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|98,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2025-02-20|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|ar|4,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|269,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2022-04-28|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|68,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence is a board member biography listing the name, qualifications, and experience of a member of the Sharia Supervisory Board. According to the rules, board member biographies are not considered mentions"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfPropertyPlantAndEquipmentExplanatory|0|ar|152,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MHFZ|2022-03-28|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|36,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence appears to be a header or metadata line containing a date, location, organization name, and what seems to be a license or reference number. It does not describe the reporting company's adoption, implementation,"
+MANE|2022-04-28|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|ar|143,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|38,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes a payment service (CliQ) offered by the company to customers through its mobile application. This is a commercial service provided to customers, not adoption of technology in the company's own operations."
+BOJX|2022-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|149,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2023-04-27|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfCurrentAndResigningBoardMembersDuringYearAndDeterminingWhetherMemberIsExecutiveNonExecutiveIndependentOrNonIndependent|0|ar|14,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-04-29|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2023-03-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|79,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2021-05-30|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|ar|31,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ASAS|2025-04-06|NotesListOfNotes|ifrs-full_DisclosureOfPropertyPlantAndEquipmentExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfBasisOfConsolidationExplanatory|0|ar|227,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|65,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2025-04-22|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfCommitteesEmanatingFromBoardOfDirectors|0|ar|70,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ASAS|2025-04-06|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|17,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-05-16|DisclosuresDirectorsReport|jsc_DisclosureOfAnalysisOfCompanysFinancialStatusAndOfResultsOfItsActivitiesForFiscalYear|0|ar|31,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfTradeAndOtherCurrentReceivables|0|ar|219,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|56,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2022-04-26|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|ar|21,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses the recognition of deferred tax assets for temporary differences and tax-deductible expenses. It is a standard accounting policy statement and does not mention any of the six technologies (AI/ML,"
+JOEP|2025-04-30|NotesListOfNotes|jsc-rep_DisclosureOfFairValueHierarchy|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ARAS|2021-04-30|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|ar|6,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2022-04-26|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|58,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2025-05-03|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|111,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2025-05-03|NotesListOfNotes|ifrs-full_DisclosureOfMarketRiskExplanatory|0|ar|5,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2023-04-27|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysRiskExposure|0|ar|40,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfLeasesExplanatory|0|ar|90,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-05-16|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|254,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses hedging instruments and accounting treatment for hedges. It contains no mention of any of the six specified technologies (AI/ML, Big Data, Cloud Computing, ERP systems, Smart Accounting"
+ATTA|2025-04-16|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|34,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence is a biography/CV line listing educational credentials (birth date and master's degree in business administration). According to the rules, biographical information about board members or individuals is not considered a mention of technology adoption"
+MANE|2022-04-28|DisclosuresAuditorsReport|jsc_ResponsibilitiesOfManagementAndThoseChargedWithGovernanceForFinancialStatementsExplanatory|0|ar|174,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|327,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence is a CV line describing a job position held at Deloitte & Touche (Middle East) - Jordan. According to the rules, a job title or CV line is not considered a"
+MHFZ|2025-04-23|CorporateGovernanceReport|jsc-rep_DisclosureOfNameOfChairmanAndMembersOfAuditCommitteeAndADescriptionOfTheirQualificationsAndExperienceInFinancialOrAccountingMatters|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2021-03-31|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|91,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2024-02-28|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|ar|11,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|116,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2024-03-28|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysContributionToEnvironmentalProtectionAndLocalCommunityService|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence discusses the bank's achievements in 2023, including focusing on growth, enhancing digitalization levels of its products, and expanding the use of its digital channels. While it mentions ""digitalization"""
+JOWM|2023-03-15|NotesListOfNotes|ifrs-full_DisclosureOfGeneralInformationAboutFinancialStatementsExplanatory|0|ar|5,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|ar|542,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2022-04-27|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|ar|18,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ASAS|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfChangesInAccountingPoliciesExplanatory|0|ar|16,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2025-02-25|DisclosuresAuditorsReport|jsc_KeyAuditMattersExplanatory|0|ar|12,ar,1,Big Data,"```json
+{""present"": 1, ""technology"": ""Big Data""}
+```
+
+The sentence mentions conducting ""analytical procedures"" (إجراءات تحليلية) based on forecasts and using both financial and non-financial information, which indicates the use of advanced analytics"
+UBSI|2021-04-29|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|206,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence is a CV line or biography describing a job position held by someone at a real estate development company. According to the rules, job titles, CV lines, and board member biographies are not considered mentions"
+ASAS|2022-04-28|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|ar|5,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfAuditorsRemunerationExplanatory|0|ar|83,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|327,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ASAS|2023-04-30|NotesListOfNotes|jsc-rep_DisclosureOfFinancialAssetsAtFairValueThroughProfitOrLoss|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2022-04-28|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|114,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2021-03-03|DisclosuresAuditorsReport|jsc_AuditorsReportOnFinancialStatements|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|125,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2023-02-07|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2024-03-28|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysContributionToEnvironmentalProtectionAndLocalCommunityService|0|ar|72,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2025-05-03|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|21,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2025-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|107,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|NotesListOfNotes|ifrs-full_DisclosureOfAccountingJudgementsAndEstimatesExplanatory|0|ar|23,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence discusses the bank working with qualified external appraisers to develop valuation techniques and data for fair value estimation models. This is about valuation methodology and appraisal processes, not about the"
+JOIB|2022-04-28|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfRepresentativesOfLegalDirectorsAndDetermineWhetherRepresentativeIsExecutiveNonExecutiveIndependentOrNonIndependent|0|ar|21,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|263,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2024-04-08|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfCurrentAndResigningBoardMembersDuringYearAndDeterminingWhetherMemberIsExecutiveNonExecutiveIndependentOrNonIndependent|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence is a biography of a board member (Yazid Al-Mufti) listing his various board positions and roles. According to the rules, board member biographies are not considered mentions of"
+ASAS|2023-04-30|DisclosuresAuditorsReport|jsc_KeyAuditMattersExplanatory|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses the company's application of expected credit loss requirements under IFRS 9 accounting standard and reports the provision amount. It does not mention any of the six specified technologies (AI/ML,"
+MANE|2021-04-28|NotesListOfNotes|jsc-rep_DisclosureOfCurrentBorrowings|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MHFZ|2023-03-19|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|DisclosuresDirectorsReport|jsc_DisclosureOfStatementThatIndicatesIssuingCompanysContractsProjectsAndEngagementsConcludedWithItsSubsidiariesSisterCompaniesOrAffiliatesAsWellAsThoseWithChairmanOfBoardOfDirectorsMembersOfBoardOfDirectorsChiefExecutiveOfficerOrAnyEmployeeOfCompanyOrRelativesThereof|0|ar|5,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SABK|2021-05-18|NotesListOfNotes|ifrs-full_DisclosureOfCreditRiskExplanatory|0|ar|6,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses financial instruments with fixed interest rates and their amortized cost presentation. It addresses interest rate sensitivity of earnings and equity, which is a standard financial disclosure topic. There is no mention of any of"
+ZEIC|2023-02-07|NotesListOfNotes|ifrs-full_DisclosureOfInventoriesExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfCashOnHandAndAtBanks|0|ar|69,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-04-29|DisclosuresDirectorsReport|jsc_DisclosureOfAnalysisOfCompanysFinancialStatusAndOfResultsOfItsActivitiesForFiscalYear|0|ar|28,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfEffectOfChangesInForeignExchangeRatesExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ARAS|2021-04-30|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|ar|12,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfCashFlowStatementExplanatory|0|ar|100,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses valuation techniques and fair value assessment methods in accounting. It does not mention any of the six specified technologies (AI/ML, Big Data, Cloud Computing, ERP systems, Smart Accounting"
+JOEP|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|29,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses the assessment of financial assets and contractual cash flows in relation to accounting standards. It does not mention any of the six specified technologies (AI/ML, Big Data, Cloud Computing, ERP"
+BOJX|2021-04-30|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|ar|45,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence describes updating operational risk files and control procedures at the bank's units. It discusses risk management processes and monitoring procedures, but does not mention any of the six specified technologies (AI/ML, Big Data"
+SABK|2022-03-27|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|20,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIR|2022-03-30|DisclosuresDirectorsReport|jsc_DisclosureOfAmountOfAuditingFeesForCompanyAndItsSubsidiariesAndAnyOtherFeesReceivedOrReceivableByAuditor|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JEIH|2022-03-14|CorporateGovernanceReport|jsc-rep_DisclosureOfNumberOfMeetingsOfCommitteesDuringYearWithStatementOfMembersPresent|0|ar|6,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|52,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UMIC|2024-03-21|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|NotesListOfNotes|jsc-rep_DisclosureOfRiskManagement|0|ar|178,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|DisclosuresAuditorsReport|jsc_OtherInformationIncludedInBanksAnnualReportExplanatory|0|ar|61,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2023-03-26|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|96,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfRestrictedCashAndCashEquivalentsExplanatory|0|ar|50,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ZEIC|2025-02-12|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|170,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2023-03-15|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|22,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MALL|2024-02-26|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|35,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|13,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|59,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2023-03-26|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|7,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|NotesListOfNotes|jsc-rep_DisclosureOfOtherRevenue|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+PHIL|2021-06-10|Declarations|jsc-rep_DeclarationAffirmingCorrectnessAccuracyAndCompletenessOfInformationAndDataStatedInReportSignedByChairmanOfBoardOfDirectorsCompanysChiefExecutiveOfficerAndChiefFinancialOfficer|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2025-04-29|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|91,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfDeferredTaxLiabilities|0|ar|181,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-04-29|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|139,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfImpairmentOfAssetsExplanatory|0|ar|13,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|104,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses the bank's accounting treatment of expected credit losses and provisions, which is standard accounting practice. It does not mention any of the six specified technologies (AI/ML, Big Data, Cloud, E"
+JCBK|2022-03-31|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|ar|86,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|73,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence describes banking products and services offered to customers (cash management, financing, trade exchange, and securities services), not the adoption of any technology by the reporting company itself."
+JCBK|2021-06-10|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|ar|130,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2023-04-27|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|18,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2024-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysContributionToEnvironmentalProtectionAndLocalCommunityService|0|ar|19,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|53,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2025-04-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|5,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2024-04-30|NotesListOfNotes|jsc-rep_DisclosureOfAssetsOfIjaraMuntahiaBittamleek|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2024-04-18|DisclosuresAuditorsReport|jsc_AuditorsOpinionBasisExplanatory|0|ar|13,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2022-04-28|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|80,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2021-06-10|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|ar|199,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence discusses providing work procedures to ensure information reaches decision-makers in a timely manner and to enable quick activation of emergency plans. This is about general information management and operational procedures, not about the adoption or"
+JOPH|2023-05-04|NotesListOfNotes|ifrs-full_DisclosureOfOtherCurrentAssetsExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-04-29|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|289,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence describes the accounting treatment of intangible assets with finite useful lives and their depreciation using the straight-line method over a period not exceeding five years. It is a standard accounting policy disclosure and"
+SGBJ|2021-05-03|NotesListOfNotes|ifrs-full_DisclosureOfMarketRiskExplanatory|0|ar|3,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence describes daily monitoring of the bank's foreign exchange positions by the market risk unit within specified limits and ensuring daily closure of positions. It does not mention any of the six specified technologies (AI/ML,"
+JCBK|2025-04-29|CorporateGovernanceReport|jsc-rep_DisclosureOfAllMembershipsOfBoardsOfDirectorsHeldByAMemberOfBoardOfDirectorsInPublicShareholdingCompaniesIfAny|0|ar|7,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence is a board member biography listing a board member's name, appointment date, and other biographical information. According to the rules, board member biographies are not considered mentions of technology adoption by the company."
+CABK|2025-04-30|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|10,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+REDV|2021-04-01|DisclosuresDirectorsReport|jsc_DisclosureOfStatementThatIndicatesNumberOfSecuritiesIssuedByCompanyWhichAreOwnedByAnyMemberOfItsBoardOfDirectorsAnyMemberOfItsSeniorExecutiveManagementOrAnyOfTheirRelativesAListOfCompaniesControlledByAnyOfSuchProvidedAllOfTheAboveIsBenchmarkedAgainstThePrecedingYear|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2023-04-27|DisclosuresAuditorsReport|jsc_AuditorsResponsibilitiesForAuditOfFinancialStatementsExplanatory|0|ar|2,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence discusses materiality of errors in financial statements and their potential impact on economic decisions by users. It contains no mention of any of the six specified technologies (AI/ML, Big Data, Cloud Computing,"
+ASAS|2022-04-28|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|38,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|NotesListOfNotes|jsc-rep_DisclosureOfShareCapital|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIR|2022-03-30|Declarations|jsc-rep_DeclarationAffirmingCorrectnessAccuracyAndCompletenessOfInformationAndDataStatedInReportSignedByChairmanOfBoardOfDirectorsCompanysChiefExecutiveOfficerAndChiefFinancialOfficer|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|CorporateGovernanceReport|jsc-rep_DisclosureOfInformationAndDetailsRegardingApplicationOfProvisionsOfTheseInstructionsAndCorporateGovernanceRulesInCompany|0|ar|446,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2024-03-28|DisclosuresAuditorsReport|jsc_KeyAuditMattersExplanatory|0|ar|12,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2021-04-29|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|56,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2024-04-30|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|31,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2023-04-30|NotesListOfNotes|ifrs-full_DisclosureOfLiquidityRiskExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ASAS|2021-04-29|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|72,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+CABK|2023-04-27|DisclosuresAuditorsReport|jsc_EmphasisOfMatterExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2024-05-06|NotesListOfNotes|ifrs-full_DisclosureOfSummaryOfSignificantAccountingPoliciesExplanatory|0|ar|104,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2022-03-31|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|66,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2024-03-28|NotesListOfNotes|jsc-rep_DisclosureOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome|0|ar|5,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOWM|2021-05-30|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|6,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+UBSI|2024-03-31|NotesListOfNotes|ifrs-full_DisclosureOfMarketRiskExplanatory|0|ar|1,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JCBK|2024-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfCompanysAccomplishmentsSupportedByQuantitativeIndicatorsAndDescriptionOfSignificantOccurrencesToCompanyDuringFiscalYear|0|ar|86,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes redesigning work processes related to product/service development projects and launching new systems to improve efficiency and quality. While it mentions ""new systems"" (الأنظمة الجديد"
+UBSI|2021-05-16|DisclosuresAuditorsReport|jsc_OtherInformationIncludedInBanksAnnualReportExplanatory|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2025-05-03|CorporateGovernanceReport|jsc-rep_DisclosureOfNamesOfCommitteesEmanatingFromBoardOfDirectors|0|ar|6,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence discusses an apology for absence from an IT governance committee meeting. It does not describe the company using, adopting, implementing, developing, or planning to use any of the six specified technologies in its"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfFairValueReserve|0|ar|158,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|ifrs-full_DisclosureOfInvestmentPropertyExplanatory|0|ar|193,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+PHIL|2021-06-07|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|95,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfTradeAndOtherNonCurrentReceivables|0|ar|191,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2022-04-28|DisclosuresDirectorsReport|jsc_DisclosureOfStatementThatIndicatesNumberOfSecuritiesIssuedByCompanyWhichAreOwnedByAnyMemberOfItsBoardOfDirectorsAnyMemberOfItsSeniorExecutiveManagementOrAnyOfTheirRelativesAListOfCompaniesControlledByAnyOfSuchProvidedAllOfTheAboveIsBenchmarkedAgainstThePrecedingYear|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence lists securities issued by the company and owned by board members, providing names, nationalities, positions, and share counts. It contains no mention of any of the six technologies (AI/ML, Big"
+JOPH|2025-04-22|CorporateGovernanceReport|jsc-rep_DisclosureOfNameOfChairmanAndMembersOfAuditCommitteeAndADescriptionOfTheirQualificationsAndExperienceInFinancialOrAccountingMatters|0|ar|8,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+This sentence lists board memberships and positions held by an individual (Engineer Samiraat) in various companies. It is a biography/CV line describing past roles and does not mention any technology adoption or implementation"
+MANE|2024-04-18|DisclosuresAuditorsReport|jsc_EmphasisOfMatterExplanatory|0|ar|6,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOEP|2024-04-30|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|83,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BLAD|2024-04-24|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|23,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|18,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIB|2022-04-28|DisclosuresDirectorsReport|jsc_TheMembersOfBoardOfDirectorsNamesAndNamesAndRanksOfSeniorExecutiveManagementWithBriefResumeOfEach|0|ar|45,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOIT|2021-05-05|DisclosuresDirectorsReport|jsc_DescriptionOfCompanysMainActivitiesWithTheirRespectiveGeographicalLocationsSizeOfCapitalInvestmentAndNumberOfEmployees|0|ar|19,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+SGBJ|2021-05-03|DisclosuresAuditorsReport|jsc_DisclosureOfAuditorsReportTextBlock|0|ar|23,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+JOPH|2023-05-04|DisclosuresDirectorsReport|jsc_DisclosureOfIssuingCompanysOrganizationalChartNumberOfItsEmployeesAndTheirClassesOfQualificationAndItsPersonnelQualifyingAndTrainingPrograms|0|ar|48,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```
+
+The sentence describes training and development programs for employees to improve their skills and knowledge. It does not mention any of the six specified technologies (AI/ML, Big Data, Cloud Computing, ERP systems, Smart"
+JOEP|2022-04-24|NotesListOfNotes|ifrs-full_DisclosureOfOtherOperatingIncomeExplanatory|0|ar|8,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+ALFA|2024-04-17|DisclosuresChairmansStatement|jsc_DisclosureOfStatementOfBoardOfDirectorsChairman|0|ar|0,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+BOJX|2021-04-30|DisclosuresDirectorsReport|jsc_DisclosureOfDirectorsReport|0|ar|27,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"
+MANE|2022-04-28|NotesListOfNotes|jsc-rep_DisclosureOfTradeAndOtherNonCurrentPayables|0|ar|180,ar,0,none,"```json
+{""present"": 0, ""technology"": ""none""}
+```"

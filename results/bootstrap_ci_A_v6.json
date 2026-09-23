@@ -1,0 +1,81 @@
+{
+ "method": "nonparametric bootstrap, 2000 resamples of test sentences, seed 2027, percentile 95% CI; gold = master v6",
+ "runA": {
+  "en": {
+   "n": 319,
+   "positives": 39,
+   "model": {
+    "P": 0.609,
+    "R": 0.718,
+    "F1": 0.659,
+    "F1_CI95": [
+     0.528,
+     0.772
+    ]
+   },
+   "hybrid": {
+    "P": 0.667,
+    "R": 0.718,
+    "F1": 0.691,
+    "F1_CI95": [
+     0.563,
+     0.805
+    ]
+   },
+   "dictionary": {
+    "P": 0.443,
+    "R": 1.0,
+    "F1": 0.614,
+    "F1_CI95": [
+     0.504,
+     0.71
+    ]
+   },
+   "hybrid_minus_dictionary_F1": {
+    "diff": 0.075,
+    "CI95": [
+     -0.04,
+     0.19
+    ]
+   }
+  },
+  "ar": {
+   "n": 333,
+   "positives": 28,
+   "model": {
+    "P": 0.727,
+    "R": 0.857,
+    "F1": 0.787,
+    "F1_CI95": [
+     0.655,
+     0.889
+    ]
+   },
+   "hybrid": {
+    "P": 0.774,
+    "R": 0.857,
+    "F1": 0.814,
+    "F1_CI95": [
+     0.694,
+     0.909
+    ]
+   },
+   "dictionary": {
+    "P": 0.364,
+    "R": 1.0,
+    "F1": 0.533,
+    "F1_CI95": [
+     0.414,
+     0.646
+    ]
+   },
+   "hybrid_minus_dictionary_F1": {
+    "diff": 0.279,
+    "CI95": [
+     0.158,
+     0.408
+    ]
+   }
+  }
+ }
+}

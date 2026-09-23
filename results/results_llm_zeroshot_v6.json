@@ -1,0 +1,85 @@
+{
+ "note": "robustness: claude-haiku-4-5 zero-shot with codebook definitions in prompt, temperature 0; gold = master v6; bootstrap 2000, seed 2027",
+ "results": {
+  "en": {
+   "n": 319,
+   "positives": 39,
+   "llm_zeroshot": {
+    "P": 0.724,
+    "R": 0.538,
+    "F1": 0.618,
+    "CI95": [
+     0.467,
+     0.738
+    ]
+   },
+   "llm_hybrid": {
+    "P": 0.75,
+    "R": 0.538,
+    "F1": 0.627,
+    "CI95": [
+     0.474,
+     0.757
+    ]
+   },
+   "xlmr_hybrid": {
+    "P": 0.667,
+    "R": 0.718,
+    "F1": 0.691,
+    "CI95": [
+     0.56,
+     0.795
+    ]
+   },
+   "xlmr_hybrid_minus_llm": {
+    "diff": 0.074,
+    "CI95": [
+     -0.031,
+     0.186
+    ],
+    "P_diff_le_0": 0.092
+   },
+   "llm_tech_accuracy_on_gold_positives": 0.385
+  },
+  "ar": {
+   "n": 333,
+   "positives": 28,
+   "llm_zeroshot": {
+    "P": 0.55,
+    "R": 0.786,
+    "F1": 0.647,
+    "CI95": [
+     0.508,
+     0.769
+    ]
+   },
+   "llm_hybrid": {
+    "P": 0.595,
+    "R": 0.786,
+    "F1": 0.677,
+    "CI95": [
+     0.528,
+     0.794
+    ]
+   },
+   "xlmr_hybrid": {
+    "P": 0.774,
+    "R": 0.857,
+    "F1": 0.814,
+    "CI95": [
+     0.69,
+     0.913
+    ]
+   },
+   "xlmr_hybrid_minus_llm": {
+    "diff": 0.165,
+    "CI95": [
+     0.021,
+     0.314
+    ],
+    "P_diff_le_0": 0.015
+   },
+   "llm_tech_accuracy_on_gold_positives": 0.679
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "note": "held-out firms, gold after master v6 relabel (30 JOEP company-name rows: 24 none, 6 artifact)",
+ "runA": {
+  "en": {
+   "n": 319,
+   "positives": 39,
+   "model": {
+    "P": 0.609,
+    "R": 0.718,
+    "F1": 0.659
+   },
+   "hybrid": {
+    "P": 0.667,
+    "R": 0.718,
+    "F1": 0.691
+   },
+   "dictionary": {
+    "P": 0.443,
+    "R": 1.0,
+    "F1": 0.614
+   }
+  },
+  "ar": {
+   "n": 333,
+   "positives": 28,
+   "model": {
+    "P": 0.727,
+    "R": 0.857,
+    "F1": 0.787
+   },
+   "hybrid": {
+    "P": 0.774,
+    "R": 0.857,
+    "F1": 0.814
+   },
+   "dictionary": {
+    "P": 0.364,
+    "R": 1.0,
+    "F1": 0.533
+   }
+  }
+ }
+}

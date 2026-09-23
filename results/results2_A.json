@@ -1,0 +1,195 @@
+{
+ "run": "A",
+ "train_langs": [
+  "en",
+  "ar"
+ ],
+ "train_n": 744,
+ "train_pos": 133,
+ "best_epoch": 5,
+ "threshold_from_val": 0.12,
+ "history": [
+  {
+   "epoch": 1,
+   "val": {
+    "precision": 0.7436,
+    "recall": 0.9831,
+    "f1": 0.8467,
+    "confusion": [
+     [
+      173,
+      20
+     ],
+     [
+      1,
+      58
+     ]
+    ],
+    "n": 252,
+    "positives": 59,
+    "threshold": 0.72
+   }
+  },
+  {
+   "epoch": 2,
+   "val": {
+    "precision": 0.8507,
+    "recall": 0.9661,
+    "f1": 0.9048,
+    "confusion": [
+     [
+      183,
+      10
+     ],
+     [
+      2,
+      57
+     ]
+    ],
+    "n": 252,
+    "positives": 59,
+    "threshold": 0.9
+   }
+  },
+  {
+   "epoch": 3,
+   "val": {
+    "precision": 0.8261,
+    "recall": 0.9661,
+    "f1": 0.8906,
+    "confusion": [
+     [
+      181,
+      12
+     ],
+     [
+      2,
+      57
+     ]
+    ],
+    "n": 252,
+    "positives": 59,
+    "threshold": 0.46
+   }
+  },
+  {
+   "epoch": 4,
+   "val": {
+    "precision": 0.875,
+    "recall": 0.9492,
+    "f1": 0.9106,
+    "confusion": [
+     [
+      185,
+      8
+     ],
+     [
+      3,
+      56
+     ]
+    ],
+    "n": 252,
+    "positives": 59,
+    "threshold": 0.1
+   }
+  },
+  {
+   "epoch": 5,
+   "val": {
+    "precision": 0.8769,
+    "recall": 0.9661,
+    "f1": 0.9194,
+    "confusion": [
+     [
+      185,
+      8
+     ],
+     [
+      2,
+      57
+     ]
+    ],
+    "n": 252,
+    "positives": 59,
+    "threshold": 0.12
+   }
+  },
+  {
+   "epoch": 6,
+   "val": {
+    "precision": 0.8871,
+    "recall": 0.9322,
+    "f1": 0.9091,
+    "confusion": [
+     [
+      186,
+      7
+     ],
+     [
+      4,
+      55
+     ]
+    ],
+    "n": 252,
+    "positives": 59,
+    "threshold": 0.2
+   }
+  }
+ ],
+ "val_all": {
+  "precision": 0.8769,
+  "recall": 0.9661,
+  "f1": 0.9194,
+  "confusion": [
+   [
+    185,
+    8
+   ],
+   [
+    2,
+    57
+   ]
+  ],
+  "n": 252,
+  "positives": 59,
+  "threshold": 0.12
+ },
+ "test_en": {
+  "precision": 0.8478,
+  "recall": 0.6094,
+  "f1": 0.7091,
+  "confusion": [
+   [
+    248,
+    7
+   ],
+   [
+    25,
+    39
+   ]
+  ],
+  "n": 319,
+  "positives": 64,
+  "threshold": 0.12
+ },
+ "dict_precision_test_en": 0.7273,
+ "test_ar": {
+  "precision": 0.7273,
+  "recall": 0.7273,
+  "f1": 0.7273,
+  "confusion": [
+   [
+    291,
+    9
+   ],
+   [
+    9,
+    24
+   ]
+  ],
+  "n": 333,
+  "positives": 33,
+  "threshold": 0.12
+ },
+ "dict_precision_test_ar": 0.4286
+}
