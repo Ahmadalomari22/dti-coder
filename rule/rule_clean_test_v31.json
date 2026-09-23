@@ -1,0 +1,275 @@
+{
+ "note": "clean test, script v3.1: 100 fresh positive sentences (50 EN, 50 AR), two independent coders (A = Ahmad, B = second coder), rule v3. Script v3.0 was evaluated first on this set (rule_clean_test.json, fully clean); v3.1 was then adjusted after inspecting coder A labels and the A-B disagreement list, so v3.1 figures are development figures on this set.",
+ "results": {
+  "en": {
+   "n": 50,
+   "subject_ok": {
+    "A_vs_B": {
+     "kappa": 0.398,
+     "agreement": 0.68,
+     "ci": [
+      0.22,
+      0.593
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.013,
+     "agreement": 0.64,
+     "ci": [
+      -0.238,
+      0.308
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.322,
+     "agreement": 0.64,
+     "ci": [
+      0.132,
+      0.52
+     ]
+    }
+   },
+   "verb_from_list": {
+    "A_vs_B": {
+     "kappa": 0.672,
+     "agreement": 0.84,
+     "ci": [
+      0.444,
+      0.864
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.501,
+     "agreement": 0.76,
+     "ci": [
+      0.24,
+      0.745
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.75,
+     "agreement": 0.88,
+     "ci": [
+      0.55,
+      0.918
+     ]
+    }
+   },
+   "commitment": {
+    "A_vs_B": {
+     "kappa": 0.63,
+     "agreement": 0.84,
+     "ci": [
+      0.406,
+      0.834
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.381,
+     "agreement": 0.72,
+     "ci": [
+      0.115,
+      0.638
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.588,
+     "agreement": 0.84,
+     "ci": [
+      0.31,
+      0.818
+     ]
+    }
+   },
+   "rule_vs_consensus_commitment": {
+    "n": 42,
+    "kappa": 0.604,
+    "agreement": 0.833,
+    "ci": [
+     0.314,
+     0.83
+    ]
+   }
+  },
+  "ar": {
+   "n": 50,
+   "subject_ok": {
+    "A_vs_B": {
+     "kappa": 0.344,
+     "agreement": 0.68,
+     "ci": [
+      0.129,
+      0.567
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.198,
+     "agreement": 0.58,
+     "ci": [
+      0.0,
+      0.422
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.482,
+     "agreement": 0.74,
+     "ci": [
+      0.23,
+      0.718
+     ]
+    }
+   },
+   "verb_from_list": {
+    "A_vs_B": {
+     "kappa": 0.664,
+     "agreement": 0.86,
+     "ci": [
+      0.412,
+      0.86
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.488,
+     "agreement": 0.78,
+     "ci": [
+      0.206,
+      0.726
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.585,
+     "agreement": 0.84,
+     "ci": [
+      0.288,
+      0.83
+     ]
+    }
+   },
+   "commitment": {
+    "A_vs_B": {
+     "kappa": 0.497,
+     "agreement": 0.8,
+     "ci": [
+      0.239,
+      0.737
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.455,
+     "agreement": 0.78,
+     "ci": [
+      0.182,
+      0.705
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.805,
+     "agreement": 0.94,
+     "ci": [
+      0.545,
+      1.0
+     ]
+    }
+   },
+   "rule_vs_consensus_commitment": {
+    "n": 40,
+    "kappa": 0.844,
+    "agreement": 0.95,
+    "ci": [
+     0.547,
+     1.0
+    ]
+   }
+  },
+  "all": {
+   "n": 100,
+   "subject_ok": {
+    "A_vs_B": {
+     "kappa": 0.374,
+     "agreement": 0.68,
+     "ci": [
+      0.237,
+      0.524
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.11,
+     "agreement": 0.61,
+     "ci": [
+      -0.076,
+      0.299
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.385,
+     "agreement": 0.69,
+     "ci": [
+      0.208,
+      0.559
+     ]
+    }
+   },
+   "verb_from_list": {
+    "A_vs_B": {
+     "kappa": 0.673,
+     "agreement": 0.85,
+     "ci": [
+      0.517,
+      0.822
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.499,
+     "agreement": 0.77,
+     "ci": [
+      0.329,
+      0.668
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.683,
+     "agreement": 0.86,
+     "ci": [
+      0.52,
+      0.824
+     ]
+    }
+   },
+   "commitment": {
+    "A_vs_B": {
+     "kappa": 0.567,
+     "agreement": 0.82,
+     "ci": [
+      0.401,
+      0.729
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.419,
+     "agreement": 0.75,
+     "ci": [
+      0.241,
+      0.603
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.686,
+     "agreement": 0.89,
+     "ci": [
+      0.505,
+      0.848
+     ]
+    }
+   },
+   "rule_vs_consensus_commitment": {
+    "n": 82,
+    "kappa": 0.708,
+    "agreement": 0.89,
+    "ci": [
+     0.518,
+     0.881
+    ]
+   }
+  }
+ }
+}

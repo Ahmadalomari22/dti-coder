@@ -1,0 +1,401 @@
+{
+ "note": "clean test: 100 fresh positive sentences (50 EN, 50 AR) coded independently under rule v3 by two coders; rule script frozen before coding; single evaluation",
+ "results": {
+  "en": {
+   "n": 50,
+   "subject_ok": {
+    "A_vs_B": {
+     "kappa": 0.398,
+     "agreement": 0.68,
+     "ci": [
+      0.22,
+      0.593
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.013,
+     "agreement": 0.64,
+     "ci": [
+      -0.238,
+      0.308
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.322,
+     "agreement": 0.64,
+     "ci": [
+      0.132,
+      0.52
+     ]
+    },
+    "dist": {
+     "A": {
+      "TRUE": 38,
+      "FALSE": 12
+     },
+     "B": {
+      "FALSE": 28,
+      "TRUE": 22
+     },
+     "rule": {
+      "TRUE": 38,
+      "FALSE": 12
+     }
+    }
+   },
+   "verb_from_list": {
+    "A_vs_B": {
+     "kappa": 0.672,
+     "agreement": 0.84,
+     "ci": [
+      0.444,
+      0.864
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.448,
+     "agreement": 0.74,
+     "ci": [
+      0.186,
+      0.685
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.788,
+     "agreement": 0.9,
+     "ci": [
+      0.606,
+      0.953
+     ]
+    },
+    "dist": {
+     "A": {
+      "FALSE": 29,
+      "TRUE": 21
+     },
+     "B": {
+      "TRUE": 21,
+      "FALSE": 29
+     },
+     "rule": {
+      "TRUE": 16,
+      "FALSE": 34
+     }
+    }
+   },
+   "commitment": {
+    "A_vs_B": {
+     "kappa": 0.63,
+     "agreement": 0.84,
+     "ci": [
+      0.406,
+      0.834
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.329,
+     "agreement": 0.7,
+     "ci": [
+      0.074,
+      0.595
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.522,
+     "agreement": 0.82,
+     "ci": [
+      0.239,
+      0.781
+     ]
+    },
+    "dist": {
+     "A": {
+      "1": 31,
+      "2": 19
+     },
+     "B": {
+      "1": 39,
+      "2": 11
+     },
+     "rule": {
+      "2": 14,
+      "1": 36
+     }
+    }
+   },
+   "rule_vs_consensus_commitment": {
+    "n": 42,
+    "kappa": 0.535,
+    "agreement": 0.81,
+    "ci": [
+     0.227,
+     0.786
+    ]
+   }
+  },
+  "ar": {
+   "n": 50,
+   "subject_ok": {
+    "A_vs_B": {
+     "kappa": 0.344,
+     "agreement": 0.68,
+     "ci": [
+      0.129,
+      0.567
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.219,
+     "agreement": 0.6,
+     "ci": [
+      0.011,
+      0.443
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.441,
+     "agreement": 0.72,
+     "ci": [
+      0.163,
+      0.68
+     ]
+    },
+    "dist": {
+     "A": {
+      "TRUE": 40,
+      "FALSE": 10
+     },
+     "B": {
+      "FALSE": 24,
+      "TRUE": 26
+     },
+     "rule": {
+      "TRUE": 24,
+      "FALSE": 26
+     }
+    }
+   },
+   "verb_from_list": {
+    "A_vs_B": {
+     "kappa": 0.664,
+     "agreement": 0.86,
+     "ci": [
+      0.412,
+      0.86
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": -0.002,
+     "agreement": 0.64,
+     "ci": [
+      -0.147,
+      0.197
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.189,
+     "agreement": 0.78,
+     "ci": [
+      -0.073,
+      0.471
+     ]
+    },
+    "dist": {
+     "A": {
+      "FALSE": 33,
+      "TRUE": 17
+     },
+     "B": {
+      "FALSE": 38,
+      "TRUE": 12
+     },
+     "rule": {
+      "FALSE": 47,
+      "TRUE": 3
+     }
+    }
+   },
+   "commitment": {
+    "A_vs_B": {
+     "kappa": 0.497,
+     "agreement": 0.8,
+     "ci": [
+      0.239,
+      0.737
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.036,
+     "agreement": 0.66,
+     "ci": [
+      -0.096,
+      0.231
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.319,
+     "agreement": 0.86,
+     "ci": [
+      0.0,
+      0.648
+     ]
+    },
+    "dist": {
+     "A": {
+      "1": 33,
+      "2": 17
+     },
+     "B": {
+      "1": 41,
+      "2": 9
+     },
+     "rule": {
+      "1": 48,
+      "2": 2
+     }
+    }
+   },
+   "rule_vs_consensus_commitment": {
+    "n": 40,
+    "kappa": 0.186,
+    "agreement": 0.825,
+    "ci": [
+     0.0,
+     0.538
+    ]
+   }
+  },
+  "all": {
+   "n": 100,
+   "subject_ok": {
+    "A_vs_B": {
+     "kappa": 0.374,
+     "agreement": 0.68,
+     "ci": [
+      0.237,
+      0.524
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.122,
+     "agreement": 0.62,
+     "ci": [
+      -0.07,
+      0.313
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.366,
+     "agreement": 0.68,
+     "ci": [
+      0.192,
+      0.543
+     ]
+    },
+    "dist": {
+     "A": {
+      "TRUE": 78,
+      "FALSE": 22
+     },
+     "B": {
+      "FALSE": 52,
+      "TRUE": 48
+     },
+     "rule": {
+      "TRUE": 62,
+      "FALSE": 38
+     }
+    }
+   },
+   "verb_from_list": {
+    "A_vs_B": {
+     "kappa": 0.673,
+     "agreement": 0.85,
+     "ci": [
+      0.517,
+      0.822
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.272,
+     "agreement": 0.69,
+     "ci": [
+      0.1,
+      0.452
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.595,
+     "agreement": 0.84,
+     "ci": [
+      0.414,
+      0.756
+     ]
+    },
+    "dist": {
+     "A": {
+      "FALSE": 62,
+      "TRUE": 38
+     },
+     "B": {
+      "TRUE": 33,
+      "FALSE": 67
+     },
+     "rule": {
+      "TRUE": 19,
+      "FALSE": 81
+     }
+    }
+   },
+   "commitment": {
+    "A_vs_B": {
+     "kappa": 0.567,
+     "agreement": 0.82,
+     "ci": [
+      0.401,
+      0.729
+     ]
+    },
+    "rule_vs_A": {
+     "kappa": 0.209,
+     "agreement": 0.68,
+     "ci": [
+      0.038,
+      0.398
+     ]
+    },
+    "rule_vs_B": {
+     "kappa": 0.459,
+     "agreement": 0.84,
+     "ci": [
+      0.211,
+      0.668
+     ]
+    },
+    "dist": {
+     "A": {
+      "1": 64,
+      "2": 36
+     },
+     "B": {
+      "1": 80,
+      "2": 20
+     },
+     "rule": {
+      "2": 16,
+      "1": 84
+     }
+    }
+   },
+   "rule_vs_consensus_commitment": {
+    "n": 82,
+    "kappa": 0.434,
+    "agreement": 0.817,
+    "ci": [
+     0.187,
+     0.661
+    ]
+   }
+  }
+ }
+}

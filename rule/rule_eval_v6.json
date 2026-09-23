@@ -1,0 +1,160 @@
+{
+ "note": "rule script v2 (closed verb list in verbal form; object = six-technology dictionary term within 12 words in the same clause; firm subject before the verb or VSO/first-person; passive and plan/system subjects fail) vs humans coded under rule v3. Development figures: the script was adjusted on these same 84 sentences; a clean test needs a fresh human-coded set. master_v6 commitment column predates rule v3 and is not a valid reference.",
+ "results": {
+  "round3_en": {
+   "n": 21,
+   "dist_A": {
+    "1": 12,
+    "2": 9
+   },
+   "dist_B": {
+    "1": 17,
+    "2": 4
+   },
+   "dist_rule": {
+    "1": 11,
+    "2": 10
+   },
+   "rule_vs_A": {
+    "kappa": 0.712,
+    "agreement": 0.857,
+    "ci": [
+     0.364,
+     1.0
+    ]
+   },
+   "rule_vs_B": {
+    "kappa": 0.215,
+    "agreement": 0.619,
+    "ci": [
+     -0.14,
+     0.554
+    ]
+   },
+   "A_vs_B": {
+    "kappa": 0.478,
+    "agreement": 0.762
+   }
+  },
+  "round3_ar": {
+   "n": 13,
+   "dist_A": {
+    "1": 9,
+    "2": 4
+   },
+   "dist_B": {
+    "1": 11,
+    "2": 2
+   },
+   "dist_rule": {
+    "1": 12,
+    "2": 1
+   },
+   "rule_vs_A": {
+    "kappa": -0.14,
+    "agreement": 0.615,
+    "ci": [
+     -0.358,
+     0.0
+    ]
+   },
+   "rule_vs_B": {
+    "kappa": -0.114,
+    "agreement": 0.769,
+    "ci": [
+     -0.258,
+     1.0
+    ]
+   },
+   "A_vs_B": {
+    "kappa": 0.161,
+    "agreement": 0.692
+   }
+  },
+  "round3_all": {
+   "n": 34,
+   "dist_A": {
+    "1": 21,
+    "2": 13
+   },
+   "dist_B": {
+    "1": 28,
+    "2": 6
+   },
+   "dist_rule": {
+    "1": 23,
+    "2": 11
+   },
+   "rule_vs_A": {
+    "kappa": 0.487,
+    "agreement": 0.765,
+    "ci": [
+     0.154,
+     0.758
+    ]
+   },
+   "rule_vs_B": {
+    "kappa": 0.161,
+    "agreement": 0.676,
+    "ci": [
+     -0.164,
+     0.494
+    ]
+   },
+   "A_vs_B": {
+    "kappa": 0.376,
+    "agreement": 0.735
+   }
+  },
+  "ar_rule_check_50": {
+   "subject_ok_vs_A": {
+    "kappa": 0.385,
+    "agreement": 0.72,
+    "ci": [
+     0.141,
+     0.636
+    ]
+   },
+   "subject_ok_vs_B": {
+    "kappa": 0.415,
+    "agreement": 0.76,
+    "ci": [
+     0.138,
+     0.685
+    ]
+   },
+   "verb_vs_A": {
+    "kappa": 0.47,
+    "agreement": 0.74,
+    "ci": [
+     0.244,
+     0.683
+    ]
+   },
+   "verb_vs_B": {
+    "kappa": 0.336,
+    "agreement": 0.7,
+    "ci": [
+     0.065,
+     0.589
+    ]
+   },
+   "commitment_vs_A": {
+    "kappa": 0.73,
+    "agreement": 0.92,
+    "ci": [
+     0.44,
+     0.944
+    ]
+   },
+   "commitment_vs_B": {
+    "kappa": 0.702,
+    "agreement": 0.92,
+    "ci": [
+     0.382,
+     0.944
+    ]
+   }
+  }
+ }
+}
